@@ -3,3 +3,5 @@
 New iCons 3 Repo coz monorepo is falling apart
 
 Will have ALL the official work for the iCons 3 work. Monorepo will just redirect to here. 
+
+To team members: Still don't mind giving access to monorepo if needed :)
