@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Qualitative-Data-HeatMap",
+  "id": "tutorial-basics/Qualitative-Data-HeatMap",
+  "title": "Qualitative Data Map",
+  "description": "* The following Interactive Map was created by conducting a Qualitative Analysis across the W.E.B. Du Bois Library.",
+  "source": "@site/docs/tutorial-basics/Qualitative-Data-HeatMap.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Qualitative-Data-HeatMap",
+  "permalink": "/iCons3/docs/tutorial-basics/Qualitative-Data-HeatMap",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/tutorial-basics/Qualitative-Data-HeatMap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heat Map",
+    "permalink": "/iCons3/docs/category/heat-map"
+  }
+}

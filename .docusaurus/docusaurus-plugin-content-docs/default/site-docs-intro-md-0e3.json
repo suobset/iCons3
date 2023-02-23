@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Project Statement",
+  "description": "According to the UMass Carbon Zero introduction, the state of Massachusetts has a legally binding reduction commitment for 2050 to “decarbonize statewide energy systems and reach 80% emission reductions … and net-zero emissions”.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/iCons3/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Heat Map",
+    "permalink": "/iCons3/docs/category/heat-map"
+  }
+}

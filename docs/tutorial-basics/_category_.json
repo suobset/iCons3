@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Heat Map",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Generated Interactive Maps for users to interact with our data."
   }
 }

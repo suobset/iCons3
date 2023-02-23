@@ -1,0 +1,16 @@
+{
+  "title": "Heat Maps",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/heat-maps",
+  "permalink": "/iCons3/docs/category/heat-maps",
+  "navigation": {
+    "previous": {
+      "title": "Project Statement",
+      "permalink": "/iCons3/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/iCons3/docs/tutorial-basics/create-a-page"
+    }
+  }
+}
