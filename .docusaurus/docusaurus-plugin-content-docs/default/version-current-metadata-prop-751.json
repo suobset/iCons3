@@ -24,8 +24,8 @@
           {
             "type": "link",
             "label": "Qualitative Data Map",
-            "href": "/iCons3/docs/tutorial-basics/Qualitative-Data-HeatMap",
-            "docId": "tutorial-basics/Qualitative-Data-HeatMap"
+            "href": "/iCons3/docs/heat-map/Qualitative-HeatMap",
+            "docId": "heat-map/Qualitative-HeatMap"
           }
         ],
         "href": "/iCons3/docs/category/heat-map"
@@ -33,16 +33,16 @@
     ]
   },
   "docs": {
+    "heat-map/Qualitative-HeatMap": {
+      "id": "heat-map/Qualitative-HeatMap",
+      "title": "Qualitative Data Map",
+      "description": "* The following Interactive Map was created by conducting a Qualitative Analysis across the W.E.B. Du Bois Library.",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Project Statement",
       "description": "According to the UMass Carbon Zero introduction, the state of Massachusetts has a legally binding reduction commitment for 2050 to “decarbonize statewide energy systems and reach 80% emission reductions … and net-zero emissions”.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/Qualitative-Data-HeatMap": {
-      "id": "tutorial-basics/Qualitative-Data-HeatMap",
-      "title": "Qualitative Data Map",
-      "description": "* The following Interactive Map was created by conducting a Qualitative Analysis across the W.E.B. Du Bois Library.",
       "sidebar": "tutorialSidebar"
     }
   }

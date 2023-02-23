@@ -11,13 +11,13 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "intro",
-              "path": "/iCons3/docs/intro",
+              "id": "heat-map/Qualitative-HeatMap",
+              "path": "/iCons3/docs/heat-map/Qualitative-HeatMap",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/Qualitative-Data-HeatMap",
-              "path": "/iCons3/docs/tutorial-basics/Qualitative-Data-HeatMap",
+              "id": "intro",
+              "path": "/iCons3/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {

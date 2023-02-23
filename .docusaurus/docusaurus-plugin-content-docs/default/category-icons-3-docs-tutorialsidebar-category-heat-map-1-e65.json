@@ -1,12 +1,12 @@
 {
   "title": "Heat Map",
   "description": "Generated Interactive Maps for users to interact with our data.",
-  "slug": "/category/heat-map",
-  "permalink": "/iCons3/docs/category/heat-map",
+  "slug": "/category/heat-map-1",
+  "permalink": "/iCons3/docs/category/heat-map-1",
   "navigation": {
     "previous": {
-      "title": "Project Statement",
-      "permalink": "/iCons3/docs/intro"
+      "title": "Qualitative Data Map",
+      "permalink": "/iCons3/docs/heat-maps/Qualitative-Data-HeatMap"
     },
     "next": {
       "title": "Qualitative Data Map",
