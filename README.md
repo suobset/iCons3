@@ -1,13 +1,41 @@
-# iCons3
+# Website
 
-New iCons 3 Repo coz monorepo is falling apart
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Will have ALL the official work for the iCons 3 work. Monorepo will just redirect to here. 
+### Installation
 
-To team members: Still don't mind giving access to monorepo if needed :)
+```
+$ yarn
+```
 
-Cur draft website will be hosted at: https://suobset.github.io/iCons/iCons3-CS1-draft
+### Local Development
 
+```
+$ yarn start
+```
 
-Heatmap for the qualitative perceived temperature data for 21 of the floors of the W.E.B. DuBois Library.
-![heatmap](https://user-images.githubusercontent.com/44482134/220529155-8457590a-5513-4262-8b7e-ab1863d5a1f4.gif)
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
