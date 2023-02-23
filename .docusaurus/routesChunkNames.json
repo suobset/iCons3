@@ -42,7 +42,7 @@
       "plugin": "plugin---i-cons-3-docusaurus-debugdde-68d"
     }
   },
-  "/iCons3/blog-12f": {
+  "/iCons3/blog-018": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---i-cons-3-blog-64-d-bae"
@@ -50,7 +50,7 @@
     "sidebar": "sidebar---i-cons-3-blog-814-85b",
     "items": [
       {
-        "content": "content---i-cons-3-blog-391-eb2"
+        "content": "content---i-cons-3-blog-4-dc-3c5"
       }
     ],
     "metadata": "metadata---i-cons-3-blog-3-ee-6a6"
@@ -70,7 +70,7 @@
     "sidebar": "sidebar---i-cons-3-blog-814-85b",
     "tags": "tags---i-cons-3-blog-tagse-93-967"
   },
-  "/iCons3/blog/tags/weekly-reports-29b": {
+  "/iCons3/blog/tags/weekly-reports-516": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---i-cons-3-blog-64-d-bae"
@@ -78,19 +78,19 @@
     "sidebar": "sidebar---i-cons-3-blog-814-85b",
     "items": [
       {
-        "content": "content---i-cons-3-blog-391-eb2"
+        "content": "content---i-cons-3-blog-4-dc-3c5"
       }
     ],
     "tag": "tag---i-cons-3-blog-tags-weekly-reportscc-9-d96",
     "listMetadata": "listMetadata---i-cons-3-blog-tags-weekly-reportsa-4-f-047"
   },
-  "/iCons3/blog/Week 1-ca2": {
+  "/iCons3/blog/Week 1-b26": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---i-cons-3-blog-64-d-bae"
     },
     "sidebar": "sidebar---i-cons-3-blog-814-85b",
-    "content": "content---i-cons-3-blog-week-188-e-0f8"
+    "content": "content---i-cons-3-blog-week-121-d-ea7"
   },
   "/iCons3/markdown-page-3ca": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

@@ -1,0 +1,48 @@
+{
+  "permalink": "/iCons3/blog/Week 1",
+  "editUrl": "https://github.com/suobset/iCons3/blog/index.md",
+  "source": "@site/blog/index.md",
+  "title": "Week of 2/24",
+  "description": "* Project Proposal",
+  "date": "2023-02-23T22:27:13.108Z",
+  "formattedDate": "February 23, 2023",
+  "tags": [
+    {
+      "label": "weekly reports",
+      "permalink": "/iCons3/blog/tags/weekly-reports"
+    }
+  ],
+  "readingTime": 0.26,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Anvitha Ramachandran",
+      "key": "anvitha"
+    },
+    {
+      "name": "Emily Laus",
+      "key": "emily"
+    },
+    {
+      "name": "Frank Catalano",
+      "key": "frank"
+    },
+    {
+      "name": "Kushagra Srivastava",
+      "key": "kush"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Week 1",
+    "title": "Week of 2/24",
+    "authors": [
+      "anvitha",
+      "emily",
+      "frank",
+      "kush"
+    ],
+    "tags": [
+      "weekly reports"
+    ]
+  }
+}

@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/iCons3/blog',
-    component: ComponentCreator('/iCons3/blog', '12f'),
+    component: ComponentCreator('/iCons3/blog', '018'),
     exact: true
   },
   {
@@ -54,12 +54,12 @@ export default [
   },
   {
     path: '/iCons3/blog/tags/weekly-reports',
-    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', '29b'),
+    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', '516'),
     exact: true
   },
   {
     path: '/iCons3/blog/Week 1',
-    component: ComponentCreator('/iCons3/blog/Week 1', 'ca2'),
+    component: ComponentCreator('/iCons3/blog/Week 1', 'b26'),
     exact: true
   },
   {
