@@ -20,16 +20,16 @@
           "contentPathLocalized": "/Users/trinity/Documents/GitHub/iCons3/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "heat-map/Qualitative-HeatMap",
-              "id": "heat-map/Qualitative-HeatMap",
+              "unversionedId": "heat-map/Qualitative-HeatMap/index",
+              "id": "heat-map/Qualitative-HeatMap/index",
               "title": "Qualitative Data Map",
               "description": "* The following Interactive Map was created by conducting a Qualitative Analysis across the W.E.B. Du Bois Library.",
-              "source": "@site/docs/heat-map/Qualitative-HeatMap.md",
-              "sourceDirName": "heat-map",
-              "slug": "/heat-map/Qualitative-HeatMap",
-              "permalink": "/iCons3/docs/heat-map/Qualitative-HeatMap",
+              "source": "@site/docs/heat-map/Qualitative-HeatMap/index.md",
+              "sourceDirName": "heat-map/Qualitative-HeatMap",
+              "slug": "/heat-map/Qualitative-HeatMap/",
+              "permalink": "/iCons3/docs/heat-map/Qualitative-HeatMap/",
               "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/heat-map/Qualitative-HeatMap.md",
+              "editUrl": "https://github.com/suobset/iCons3/docs/heat-map/Qualitative-HeatMap/index.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -81,7 +81,8 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "heat-map/Qualitative-HeatMap"
+                    "label": "Qualitative Data Map",
+                    "id": "heat-map/Qualitative-HeatMap/index"
                   }
                 ],
                 "link": {

@@ -11,8 +11,8 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "heat-map/Qualitative-HeatMap",
-              "path": "/iCons3/docs/heat-map/Qualitative-HeatMap",
+              "id": "heat-map/Qualitative-HeatMap/index",
+              "path": "/iCons3/docs/heat-map/Qualitative-HeatMap/",
               "sidebar": "tutorialSidebar"
             },
             {

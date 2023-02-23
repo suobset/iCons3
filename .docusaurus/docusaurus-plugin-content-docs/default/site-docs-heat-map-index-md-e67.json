@@ -1,0 +1,23 @@
+{
+  "unversionedId": "heat-map/index",
+  "id": "heat-map/index",
+  "title": "Qualitative Data Map",
+  "description": "* The following Interactive Map was created by conducting a Qualitative Analysis across the W.E.B. Du Bois Library.",
+  "source": "@site/docs/heat-map/index.md",
+  "sourceDirName": "heat-map",
+  "slug": "/heat-map/",
+  "permalink": "/iCons3/docs/heat-map/",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/heat-map/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Heat Map",
+    "permalink": "/iCons3/docs/category/heat-map"
+  }
+}

@@ -24,8 +24,8 @@
           {
             "type": "link",
             "label": "Qualitative Data Map",
-            "href": "/iCons3/docs/heat-map/Qualitative-HeatMap",
-            "docId": "heat-map/Qualitative-HeatMap"
+            "href": "/iCons3/docs/heat-map/Qualitative-HeatMap/",
+            "docId": "heat-map/Qualitative-HeatMap/index"
           }
         ],
         "href": "/iCons3/docs/category/heat-map"
@@ -33,8 +33,8 @@
     ]
   },
   "docs": {
-    "heat-map/Qualitative-HeatMap": {
-      "id": "heat-map/Qualitative-HeatMap",
+    "heat-map/Qualitative-HeatMap/index": {
+      "id": "heat-map/Qualitative-HeatMap/index",
       "title": "Qualitative Data Map",
       "description": "* The following Interactive Map was created by conducting a Qualitative Analysis across the W.E.B. Du Bois Library.",
       "sidebar": "tutorialSidebar"

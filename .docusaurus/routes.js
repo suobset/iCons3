@@ -69,7 +69,7 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '8d8'),
+    component: ComponentCreator('/iCons3/docs', 'f81'),
     routes: [
       {
         path: '/iCons3/docs/category/heat-map',
@@ -78,8 +78,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/iCons3/docs/heat-map/Qualitative-HeatMap',
-        component: ComponentCreator('/iCons3/docs/heat-map/Qualitative-HeatMap', '5ce'),
+        path: '/iCons3/docs/heat-map/Qualitative-HeatMap/',
+        component: ComponentCreator('/iCons3/docs/heat-map/Qualitative-HeatMap/', 'e14'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
