@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/iCons3/blog',
-    component: ComponentCreator('/iCons3/blog', 'e96'),
+    component: ComponentCreator('/iCons3/blog', '12f'),
     exact: true
   },
   {
@@ -48,48 +48,18 @@ export default [
     exact: true
   },
   {
-    path: '/iCons3/blog/first-blog-post',
-    component: ComponentCreator('/iCons3/blog/first-blog-post', '64c'),
-    exact: true
-  },
-  {
-    path: '/iCons3/blog/long-blog-post',
-    component: ComponentCreator('/iCons3/blog/long-blog-post', '66b'),
-    exact: true
-  },
-  {
-    path: '/iCons3/blog/mdx-blog-post',
-    component: ComponentCreator('/iCons3/blog/mdx-blog-post', 'f99'),
-    exact: true
-  },
-  {
     path: '/iCons3/blog/tags',
     component: ComponentCreator('/iCons3/blog/tags', '14c'),
     exact: true
   },
   {
-    path: '/iCons3/blog/tags/docusaurus',
-    component: ComponentCreator('/iCons3/blog/tags/docusaurus', '269'),
+    path: '/iCons3/blog/tags/weekly-reports',
+    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', '29b'),
     exact: true
   },
   {
-    path: '/iCons3/blog/tags/facebook',
-    component: ComponentCreator('/iCons3/blog/tags/facebook', '84d'),
-    exact: true
-  },
-  {
-    path: '/iCons3/blog/tags/hello',
-    component: ComponentCreator('/iCons3/blog/tags/hello', 'ef8'),
-    exact: true
-  },
-  {
-    path: '/iCons3/blog/tags/hola',
-    component: ComponentCreator('/iCons3/blog/tags/hola', '534'),
-    exact: true
-  },
-  {
-    path: '/iCons3/blog/welcome',
-    component: ComponentCreator('/iCons3/blog/welcome', '7ef'),
+    path: '/iCons3/blog/Week 1',
+    component: ComponentCreator('/iCons3/blog/Week 1', 'ca2'),
     exact: true
   },
   {

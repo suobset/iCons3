@@ -2,20 +2,8 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/iCons3/blog/welcome"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/iCons3/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/iCons3/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/iCons3/blog/first-blog-post"
+      "title": "Week of 2/24",
+      "permalink": "/iCons3/blog/Week 1"
     }
   ]
 }
