@@ -19,8 +19,10 @@ jobs:
           cache: npm
 
       - name: Install dependencies
+        working-directory: ./site
         run: npm ci
       - name: Build website
+        working-directory: ./site
         run: npm run build
 
       # Popular action to deploy to GitHub Pages:
