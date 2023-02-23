@@ -109,7 +109,7 @@ const config = {
               },
               {
                 label: 'React',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://reactjs.org/',
               },
             ],
           },
