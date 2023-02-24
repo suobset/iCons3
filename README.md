@@ -1,4 +1,6 @@
-# iCons3
+# iCons 3: Team Library
+
+## Anvitha, Emily, Frank, Kushagra
 
 New iCons 3 Repo coz monorepo is falling apart
 
