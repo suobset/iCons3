@@ -8,7 +8,7 @@ To team members: Still don't mind giving access to monorepo if needed :)
 
 Cur draft website will be hosted at: https://suobset.github.io/iCons3
 
-Setup for the Heat Maps to work as of Feb 23:
+Setup for the Heat Maps to work as of Feb 23 (TEMP):
 
 1. This is the main repository for our primary website, as well as all source code files (including MATLAB)
 2. We use a supplementary repository: https://github.com/suobset/iCons
