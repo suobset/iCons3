@@ -17,10 +17,10 @@ sidebar_position: 6
 * Power consumption of different bulbs: https://letsavelectricity.com/cfl-light-bulb-power-consumption-calculator/
 * Elevators consume a fair amount of energy: https://www.sciencedirect.com/science/article/pii/S030626191931030X**
 
-They also state that the purpose of the Carbon Mitigation Taskforce (CMTF) is to “[commit] to carbon neutrality of its energy system before 2050” to lead by example, and because it is crucial to the goal of the Commonwealth as a whole. They state that this plan is imperative because UMass Amherst is the “largest emitter of carbon dioxide of all state agencies”, and without UMass making strides in decarbonization, the state “will not meet [its] decarbonization goal”.
+<!-- They also state that the purpose of the Carbon Mitigation Taskforce (CMTF) is to “[commit] to carbon neutrality of its energy system before 2050” to lead by example, and because it is crucial to the goal of the Commonwealth as a whole. They state that this plan is imperative because UMass Amherst is the “largest emitter of carbon dioxide of all state agencies”, and without UMass making strides in decarbonization, the state “will not meet [its] decarbonization goal”.
 
 In partnership with the Physical Plant, the Building Energy Dashboard was designed to provide interactive information about the energy consumption of buildings on campus.
 
 In the 2015 fiscal year, the W.E.B DuBois library consumed 4,618,142 KWh of electricity and 13,752,744 pounds of steam, with the electricity consumption corresponding to 3,001,792 pounds of carbon dioxide emissions and steam corresponding to 2,337,967 pounds of carbon dioxide emissions
 
-As such, this study’s motivation is to analyze the carbon dioxide emissions that can be attributed to current heating infrastructure having uneven heating distribution in the library and lighting-related electricity consumption, which relates to renewable energy in that characterizing the faults of our current infrastructure will facilitate plans for the new infrastructure proposed by UMass Carbon Zero.
+As such, this study’s motivation is to analyze the carbon dioxide emissions that can be attributed to current heating infrastructure having uneven heating distribution in the library and lighting-related electricity consumption, which relates to renewable energy in that characterizing the faults of our current infrastructure will facilitate plans for the new infrastructure proposed by UMass Carbon Zero. -->

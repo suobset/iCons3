@@ -13,8 +13,18 @@ tags: [weekly reports]
   * (in an ideal circumstance)
 * Qualitative Heat Map of the Library
 
-## Deliverables
+## Progress Report
 
-```
-Add data about what we found, methodology, and links to where each thing is listed in the main Project Page
-```
+### Block Diagram Rough Draft
+
+<img src="./Preliminary_Block_Diagram.png" width="800" height="500"></img>
+
+### Thermodynamic Calculations
+
+Refer to <a href="/docs/project-proposal/back-env-calc">Project -> Project Proposal -> Back of the Envelope Calculations</a>
+
+### Qualitative Heat Map
+
+Refer to <a href="/docs/intro">Project -> Qualitative Heat Map</a>
+
+<hr>
