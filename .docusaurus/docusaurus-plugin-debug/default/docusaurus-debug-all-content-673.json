@@ -937,7 +937,7 @@
                 "permalink": "/iCons3/blog/tags/weekly-reports"
               }
             ],
-            "readingTime": 0.26,
+            "readingTime": 0.35,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -971,7 +971,7 @@
               ]
             }
           },
-          "content": "* Project Proposal\n* Rough Draft of Block Diagram\n* Thermodynamic Calculation of Library's Heating Potential \n  * (in an ideal circumstance)\n* Qualitative Heat Map of the Library\n\n## Deliverables\n\n```\nAdd data about what we found, methodology, and links to where each thing is listed in the main Project Page\n```"
+          "content": "* Project Proposal\n* Rough Draft of Block Diagram\n* Thermodynamic Calculation of Library's Heating Potential \n  * (in an ideal circumstance)\n* Qualitative Heat Map of the Library\n\n## Progress Report\n\n### Block Diagram Rough Draft\n\n<img src=\"https://raw.githubusercontent.com/suobset/iCons/main/iCons3-CS1/assets/Preliminary_Block_Diagram.png\" width=\"800\" height=\"500\"></img>\n\n### Thermodynamic Calculations\n\nRefer to <a href=\"/docs/project-proposal/back-env-calc\">Project -> Project Proposal -> Back of the Envelope Calculations</a>\n\n### Qualitative Heat Map\n\nRefer to <a href=\"/docs/intro\">Project -> Qualitative Heat Map</a>\n\n<hr />"
         }
       ],
       "blogListPaginated": [

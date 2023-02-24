@@ -17,7 +17,7 @@ tags: [weekly reports]
 
 ### Block Diagram Rough Draft
 
-<img src="./Preliminary_Block_Diagram.png" width="800" height="500"></img>
+<img src="https://raw.githubusercontent.com/suobset/iCons/main/iCons3-CS1/assets/Preliminary_Block_Diagram.png" width="800" height="500"></img>
 
 ### Thermodynamic Calculations
 
@@ -27,4 +27,4 @@ Refer to <a href="/docs/project-proposal/back-env-calc">Project -> Project Propo
 
 Refer to <a href="/docs/intro">Project -> Qualitative Heat Map</a>
 
-<hr>
+<hr />
