@@ -1,0 +1,23 @@
+{
+  "unversionedId": "qualitative-heat-map/Qualitative-HeatMap/index",
+  "id": "qualitative-heat-map/Qualitative-HeatMap/index",
+  "title": "Floor",
+  "description": "",
+  "source": "@site/docs/qualitative-heat-map/Qualitative-HeatMap/index.md",
+  "sourceDirName": "qualitative-heat-map/Qualitative-HeatMap",
+  "slug": "/qualitative-heat-map/Qualitative-HeatMap/",
+  "permalink": "/iCons3/docs/qualitative-heat-map/Qualitative-HeatMap/",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/qualitative-heat-map/Qualitative-HeatMap/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qualitative Heat Map",
+    "permalink": "/iCons3/docs/category/qualitative-heat-map"
+  }
+}

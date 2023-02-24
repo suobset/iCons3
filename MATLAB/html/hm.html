@@ -1,0 +1,167 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>hm</title><meta name="generator" content="MATLAB 9.13"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2023-02-23"><meta name="DC.source" content="hm.m"><style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outine:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+html { min-height:100%; margin-bottom:1px; }
+html body { height:100%; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#000; line-height:140%; background:#fff none; overflow-y:scroll; }
+html body td { vertical-align:top; text-align:left; }
+
+h1 { padding:0px; margin:0px 0px 25px; font-family:Arial, Helvetica, sans-serif; font-size:1.5em; color:#d55000; line-height:100%; font-weight:normal; }
+h2 { padding:0px; margin:0px 0px 8px; font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#000; font-weight:bold; line-height:140%; border-bottom:1px solid #d6d4d4; display:block; }
+h3 { padding:0px; margin:0px 0px 5px; font-family:Arial, Helvetica, sans-serif; font-size:1.1em; color:#000; font-weight:bold; line-height:140%; }
+
+a { color:#005fce; text-decoration:none; }
+a:hover { color:#005fce; text-decoration:underline; }
+a:visited { color:#004aa0; text-decoration:none; }
+
+p { padding:0px; margin:0px 0px 20px; }
+img { padding:0px; margin:0px 0px 20px; border:none; }
+p img, pre img, tt img, li img, h1 img, h2 img { margin-bottom:0px; }
+
+ul { padding:0px; margin:0px 0px 20px 23px; list-style:square; }
+ul li { padding:0px; margin:0px 0px 7px 0px; }
+ul li ul { padding:5px 0px 0px; margin:0px 0px 7px 23px; }
+ul li ol li { list-style:decimal; }
+ol { padding:0px; margin:0px 0px 20px 0px; list-style:decimal; }
+ol li { padding:0px; margin:0px 0px 7px 23px; list-style-type:decimal; }
+ol li ol { padding:5px 0px 0px; margin:0px 0px 7px 0px; }
+ol li ol li { list-style-type:lower-alpha; }
+ol li ul { padding-top:7px; }
+ol li ul li { list-style:square; }
+
+.content { font-size:1.2em; line-height:140%; padding: 20px; }
+
+pre, code { font-size:12px; }
+tt { font-size: 1.2em; }
+pre { margin:0px 0px 20px; }
+pre.codeinput { padding:10px; border:1px solid #d3d3d3; background:#f7f7f7; }
+pre.codeoutput { padding:10px 11px; margin:0px 0px 20px; color:#4c4c4c; }
+pre.error { color:red; }
+
+@media print { pre.codeinput, pre.codeoutput { word-wrap:break-word; width:100%; } }
+
+span.keyword { color:#0000FF }
+span.comment { color:#228B22 }
+span.string { color:#A020F0 }
+span.untermstring { color:#B20000 }
+span.syscmd { color:#B28C00 }
+span.typesection { color:#A0522D }
+
+.footer { width:auto; padding:10px 0px; margin:25px 0px 0px; border-top:1px dotted #878787; font-size:0.8em; line-height:140%; font-style:italic; color:#878787; text-align:left; float:none; }
+.footer p { margin:0px; }
+.footer a { color:#878787; }
+.footer a:hover { color:#878787; text-decoration:underline; }
+.footer a:visited { color:#878787; }
+
+table th { padding:7px 5px; text-align:left; vertical-align:middle; border: 1px solid #d6d4d4; font-weight:bold; }
+table td { padding:7px 5px; text-align:left; vertical-align:top; border:1px solid #d6d4d4; }
+
+
+
+
+
+  </style></head><body><div class="content"><pre class="codeinput"><span class="comment">% Anvitha Ramachandran</span>
+<span class="comment">% iCons 389H - Spring 2023</span>
+<span class="comment">% Library Heatmaps By Floor</span>
+<span class="comment">% Created: 2/20/23</span>
+
+<span class="comment">% reads in all the data for the library by floor</span>
+floors = readtable(<span class="string">"librarydata.csv"</span>);
+<span class="comment">% formatting csv for ideal format of data to be in heatmap accurately.</span>
+data = readtable(<span class="string">"floor1.csv"</span>);
+UIFigure = uifigure(<span class="string">'Position'</span>,[0 0 600 500]);
+temp = floors(1,:);
+temp = removevars(temp, <span class="string">"Floor"</span>);
+<span class="comment">% writes the data for the perceived temp in the formatting style</span>
+data.PerceivedTemp = table2array(temp).';
+h = heatmap(UIFigure, data, <span class="string">'SideOfLederle'</span>, <span class="string">'SideOfPond'</span>, <span class="string">"ColorVariable"</span>,<span class="string">"PerceivedTemp"</span>);
+<span class="comment">% reordered the columns so the data appears sensibly in the heatmap.</span>
+h.SourceTable.SideOfLederle = categorical(h.SourceTable.SideOfLederle);
+neworder = [<span class="string">"Lederle"</span>, <span class="string">"middle"</span>, <span class="string">"Lederle'"</span>];
+h.SourceTable.SideOfLederle = reordercats(h.SourceTable.SideOfLederle,neworder);
+h.SourceTable.SideOfPond = categorical(h.SourceTable.SideOfPond);
+neworder = [<span class="string">"Pond"</span>, <span class="string">"middle"</span>, <span class="string">"Pond'"</span>];
+h.SourceTable.SideOfPond = reordercats(h.SourceTable.SideOfPond,neworder);
+UISlider = uislider(UIFigure, <span class="string">'Position'</span>,[20, 500, 200, 3]);
+UISlider.Limits = [1, 21];
+UISlider.ValueChangedFcn = {@UISliderValueChangedFcn, data, floors};
+<span class="keyword">function</span> UISliderValueChangedFcn(Source, ~, data, floors)
+    sliderValue = round(Source.Value); <span class="comment">% We need to round the decimal value we get from UISlider.Value to index into img</span>
+    Source.Value = sliderValue; <span class="comment">% Change slider to rounded value to show it on UIFigure</span>
+    UIFigure = Source.Parent;
+    temp = floors(sliderValue,:);
+    temp = removevars(temp, <span class="string">"Floor"</span>);
+    <span class="comment">% writes the data for the perceived temp in the formatting style</span>
+    data.PerceivedTemp = table2array(temp).';
+    h = heatmap(UIFigure, data, <span class="string">'SideOfLederle'</span>, <span class="string">'SideOfPond'</span>, <span class="string">"ColorVariable"</span>, <span class="string">"PerceivedTemp"</span>);
+    <span class="comment">% reordered the columns so the data appears sensibly in the heatmap.</span>
+    h.SourceTable.SideOfLederle = categorical(h.SourceTable.SideOfLederle);
+    neworder = [<span class="string">"Lederle"</span>, <span class="string">"middle"</span>, <span class="string">"Lederle'"</span>];
+    h.SourceTable.SideOfLederle = reordercats(h.SourceTable.SideOfLederle,neworder);
+    h.SourceTable.SideOfPond = categorical(h.SourceTable.SideOfPond);
+    neworder = [<span class="string">"Pond"</span>, <span class="string">"middle"</span>, <span class="string">"Pond'"</span>];
+    h.SourceTable.SideOfPond = reordercats(h.SourceTable.SideOfPond,neworder);
+<span class="keyword">end</span>
+</pre><pre class="codeoutput">Warning: Column headers from the file were modified to make them valid MATLAB
+identifiers before creating variable names for the table. The original column
+headers are saved in the VariableDescriptions property.
+Set 'VariableNamingRule' to 'preserve' to use the original column headers as
+table variable names. 
+Warning: Column headers from the file were modified to make them valid MATLAB
+identifiers before creating variable names for the table. The original column
+headers are saved in the VariableDescriptions property.
+Set 'VariableNamingRule' to 'preserve' to use the original column headers as
+table variable names. 
+</pre><p class="footer"><br><a href="https://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2022b</a><br></p></div><!--
+##### SOURCE BEGIN #####
+% Anvitha Ramachandran
+% iCons 389H - Spring 2023
+% Library Heatmaps By Floor
+% Created: 2/20/23
+
+% reads in all the data for the library by floor
+floors = readtable("librarydata.csv");
+% formatting csv for ideal format of data to be in heatmap accurately.
+data = readtable("floor1.csv");
+UIFigure = uifigure('Position',[0 0 600 500]);
+temp = floors(1,:);
+temp = removevars(temp, "Floor");
+% writes the data for the perceived temp in the formatting style
+data.PerceivedTemp = table2array(temp).';
+h = heatmap(UIFigure, data, 'SideOfLederle', 'SideOfPond', "ColorVariable","PerceivedTemp");
+% reordered the columns so the data appears sensibly in the heatmap.
+h.SourceTable.SideOfLederle = categorical(h.SourceTable.SideOfLederle);
+neworder = ["Lederle", "middle", "Lederle'"];
+h.SourceTable.SideOfLederle = reordercats(h.SourceTable.SideOfLederle,neworder);
+h.SourceTable.SideOfPond = categorical(h.SourceTable.SideOfPond);
+neworder = ["Pond", "middle", "Pond'"];
+h.SourceTable.SideOfPond = reordercats(h.SourceTable.SideOfPond,neworder);
+UISlider = uislider(UIFigure, 'Position',[20, 500, 200, 3]);
+UISlider.Limits = [1, 21];
+UISlider.ValueChangedFcn = {@UISliderValueChangedFcn, data, floors};
+function UISliderValueChangedFcn(Source, ~, data, floors)
+    sliderValue = round(Source.Value); % We need to round the decimal value we get from UISlider.Value to index into img
+    Source.Value = sliderValue; % Change slider to rounded value to show it on UIFigure
+    UIFigure = Source.Parent;
+    temp = floors(sliderValue,:);
+    temp = removevars(temp, "Floor");
+    % writes the data for the perceived temp in the formatting style
+    data.PerceivedTemp = table2array(temp).';
+    h = heatmap(UIFigure, data, 'SideOfLederle', 'SideOfPond', "ColorVariable", "PerceivedTemp");
+    % reordered the columns so the data appears sensibly in the heatmap.
+    h.SourceTable.SideOfLederle = categorical(h.SourceTable.SideOfLederle);
+    neworder = ["Lederle", "middle", "Lederle'"];
+    h.SourceTable.SideOfLederle = reordercats(h.SourceTable.SideOfLederle,neworder);
+    h.SourceTable.SideOfPond = categorical(h.SourceTable.SideOfPond);
+    neworder = ["Pond", "middle", "Pond'"];
+    h.SourceTable.SideOfPond = reordercats(h.SourceTable.SideOfPond,neworder);
+end
+##### SOURCE END #####
+--></body></html>

@@ -1,8 +1,0 @@
-{
-    "label": "Heat Map",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": "Generated Interactive Maps for users to interact with our data."
-    }
-  }

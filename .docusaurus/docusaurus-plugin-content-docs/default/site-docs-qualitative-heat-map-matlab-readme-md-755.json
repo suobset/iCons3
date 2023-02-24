@@ -1,0 +1,20 @@
+{
+  "unversionedId": "qualitative-heat-map/matlab/README",
+  "id": "qualitative-heat-map/matlab/README",
+  "title": "README",
+  "description": "The way this works is basically:",
+  "source": "@site/docs/qualitative-heat-map/matlab/README.md",
+  "sourceDirName": "qualitative-heat-map/matlab",
+  "slug": "/qualitative-heat-map/matlab/",
+  "permalink": "/iCons3/docs/qualitative-heat-map/matlab/",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/qualitative-heat-map/matlab/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Floor 4",
+    "permalink": "/iCons3/docs/qualitative-heat-map/floor4"
+  }
+}

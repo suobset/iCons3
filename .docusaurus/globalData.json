@@ -11,18 +11,118 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "heat-map/Qualitative-HeatMap/index",
-              "path": "/iCons3/docs/heat-map/Qualitative-HeatMap/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro",
               "path": "/iCons3/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/heat-map",
-              "path": "/iCons3/docs/category/heat-map",
+              "id": "qualitative-heat-map/floor1",
+              "path": "/iCons3/docs/qualitative-heat-map/floor1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor10",
+              "path": "/iCons3/docs/qualitative-heat-map/floor10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor11",
+              "path": "/iCons3/docs/qualitative-heat-map/floor11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor12",
+              "path": "/iCons3/docs/qualitative-heat-map/floor12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor13",
+              "path": "/iCons3/docs/qualitative-heat-map/floor13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor14",
+              "path": "/iCons3/docs/qualitative-heat-map/floor14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor15",
+              "path": "/iCons3/docs/qualitative-heat-map/floor15",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor16",
+              "path": "/iCons3/docs/qualitative-heat-map/floor16",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor17",
+              "path": "/iCons3/docs/qualitative-heat-map/floor17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor18",
+              "path": "/iCons3/docs/qualitative-heat-map/floor18",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor19",
+              "path": "/iCons3/docs/qualitative-heat-map/floor19",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor2",
+              "path": "/iCons3/docs/qualitative-heat-map/floor2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor20",
+              "path": "/iCons3/docs/qualitative-heat-map/floor20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor21",
+              "path": "/iCons3/docs/qualitative-heat-map/floor21",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor3",
+              "path": "/iCons3/docs/qualitative-heat-map/floor3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor4",
+              "path": "/iCons3/docs/qualitative-heat-map/floor4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor5",
+              "path": "/iCons3/docs/qualitative-heat-map/floor5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor6",
+              "path": "/iCons3/docs/qualitative-heat-map/floor6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor7",
+              "path": "/iCons3/docs/qualitative-heat-map/floor7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor8",
+              "path": "/iCons3/docs/qualitative-heat-map/floor8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "qualitative-heat-map/floor9",
+              "path": "/iCons3/docs/qualitative-heat-map/floor9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/qualitative-heat-map",
+              "path": "/iCons3/docs/category/qualitative-heat-map",
               "sidebar": "tutorialSidebar"
             }
           ],

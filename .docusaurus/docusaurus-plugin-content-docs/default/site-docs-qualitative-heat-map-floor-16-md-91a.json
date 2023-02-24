@@ -1,0 +1,27 @@
+{
+  "unversionedId": "qualitative-heat-map/floor16",
+  "id": "qualitative-heat-map/floor16",
+  "title": "Floor 16",
+  "description": "Hover over the Map to get details on our qualitative comfort metrics on that part of the library.",
+  "source": "@site/docs/qualitative-heat-map/floor16.md",
+  "sourceDirName": "qualitative-heat-map",
+  "slug": "/qualitative-heat-map/floor16",
+  "permalink": "/iCons3/docs/qualitative-heat-map/floor16",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/qualitative-heat-map/floor16.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Floor 15",
+    "permalink": "/iCons3/docs/qualitative-heat-map/floor15"
+  },
+  "next": {
+    "title": "Floor 17",
+    "permalink": "/iCons3/docs/qualitative-heat-map/floor17"
+  }
+}
