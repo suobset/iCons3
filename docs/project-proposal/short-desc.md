@@ -2,11 +2,9 @@
 sidebar_position: 1
 ---
 
-# Project Statement
+# Introduction
 
 The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.
-
-## Introduction/Motivation/Background
 
 According to the UMass Carbon Zero Report, the state of Massachusetts has a legally-binding reduction commitment to “decarbonize the statewide energy systems and reach 80% emission reductions” to achieve net-zero carbon emissions by 2050. However, UMass Amherst intends to lead by example, planning to make its campus energy system entirely based on renewable energy only by 2032. This mission is considered crucial for the university and for the Commonwealth as a whole, especially because UMass emits more carbon dioxide than any other state agency.
 

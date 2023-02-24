@@ -1,0 +1,27 @@
+{
+  "unversionedId": "project-proposal/hypo-plan",
+  "id": "project-proposal/hypo-plan",
+  "title": "Testable Hypothesis",
+  "description": "* Define “wasteful consumption” to be tangible",
+  "source": "@site/docs/project-proposal/hypo-plan.md",
+  "sourceDirName": "project-proposal",
+  "slug": "/project-proposal/hypo-plan",
+  "permalink": "/iCons3/docs/project-proposal/hypo-plan",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/hypo-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pitfalls, Challenges, Alternative Solutions",
+    "permalink": "/iCons3/docs/project-proposal/pitfalls"
+  },
+  "next": {
+    "title": "Sources",
+    "permalink": "/iCons3/docs/project-proposal/cites"
+  }
+}

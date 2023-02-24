@@ -17,6 +17,51 @@
       },
       {
         "type": "category",
+        "label": "Project Proposal",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/iCons3/docs/project-proposal/short-desc",
+            "docId": "project-proposal/short-desc"
+          },
+          {
+            "type": "link",
+            "label": "Literature Review",
+            "href": "/iCons3/docs/project-proposal/literature-review",
+            "docId": "project-proposal/literature-review"
+          },
+          {
+            "type": "link",
+            "label": "Back of the Envelope Calculations",
+            "href": "/iCons3/docs/project-proposal/back-env-calc",
+            "docId": "project-proposal/back-env-calc"
+          },
+          {
+            "type": "link",
+            "label": "Pitfalls, Challenges, Alternative Solutions",
+            "href": "/iCons3/docs/project-proposal/pitfalls",
+            "docId": "project-proposal/pitfalls"
+          },
+          {
+            "type": "link",
+            "label": "Testable Hypothesis",
+            "href": "/iCons3/docs/project-proposal/hypo-plan",
+            "docId": "project-proposal/hypo-plan"
+          },
+          {
+            "type": "link",
+            "label": "Sources",
+            "href": "/iCons3/docs/project-proposal/cites",
+            "docId": "project-proposal/cites"
+          }
+        ],
+        "href": "/iCons3/docs/category/project-proposal"
+      },
+      {
+        "type": "category",
         "label": "Qualitative Heat Map",
         "collapsible": true,
         "collapsed": true,
@@ -156,7 +201,43 @@
     "intro": {
       "id": "intro",
       "title": "Project Statement",
-      "description": "According to the UMass Carbon Zero introduction, the state of Massachusetts has a legally binding reduction commitment for 2050 to “decarbonize statewide energy systems and reach 80% emission reductions … and net-zero emissions”.",
+      "description": "The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.",
+      "sidebar": "tutorialSidebar"
+    },
+    "project-proposal/back-env-calc": {
+      "id": "project-proposal/back-env-calc",
+      "title": "Back of the Envelope Calculations",
+      "description": "If the above does not load, Click Here",
+      "sidebar": "tutorialSidebar"
+    },
+    "project-proposal/cites": {
+      "id": "project-proposal/cites",
+      "title": "Sources",
+      "description": "* Introduction of UMass Carbon Zero https://www.umass.edu/carbon-neutrality/report/introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "project-proposal/hypo-plan": {
+      "id": "project-proposal/hypo-plan",
+      "title": "Testable Hypothesis",
+      "description": "* Define “wasteful consumption” to be tangible",
+      "sidebar": "tutorialSidebar"
+    },
+    "project-proposal/literature-review": {
+      "id": "project-proposal/literature-review",
+      "title": "Literature Review",
+      "description": "* Carbon Zero Report",
+      "sidebar": "tutorialSidebar"
+    },
+    "project-proposal/pitfalls": {
+      "id": "project-proposal/pitfalls",
+      "title": "Pitfalls, Challenges, Alternative Solutions",
+      "description": "In order to understand the level of fine-grained metering that W.E.B DuBois does, we reached out to Peter Volpe, the Metering and Controls Engineer of the Central Heating Plant. He stated that while the electrical metering process for individual buildings is “multiple submeters that we use to obtain LEED credits and that are used to monitor individual large loads including the HVAC system, lighting and other loads”, the amount of submeters in DuBois is data that we would have to fill out a form to request and he has to work on that form with his department so that we can formally request data from the CHP about metering in the library specifically. Regarding steam and electric controls, he stated “the steam which provides heat for this building is monitored using a Rosemount steam meter which is connected to our Johnson Controls Metasys Building Automation System. That system can also provide 15 minute usage data.” Before we can design our own fine-grained metering system, we will have to look at what the CHP provides with respect to metering for the library, but we recognize that in order to make a heatmap for all the student-visitable floors for the library, we will need at minimum five to eight meters per floor to distribute areas in which we collect heating data for well enough to make a meaningful heatmap. A hybrid of CHP and our data will minimize the number of meters that we would have to make, but we would have to wait until Peter Volpe’s coworkers come back early next week to get access to the form that he mentioned to request that data. Cost factors need to be analyzed in terms of power consumption and price of the metering devices we make, because fine grained metering would require a large number of the devices, each of which must have a negligible amount of electricity consumption and waste.",
+      "sidebar": "tutorialSidebar"
+    },
+    "project-proposal/short-desc": {
+      "id": "project-proposal/short-desc",
+      "title": "Introduction",
+      "description": "The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.",
       "sidebar": "tutorialSidebar"
     },
     "qualitative-heat-map/floor1": {

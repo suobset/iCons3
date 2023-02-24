@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Project Statement",
-  "description": "According to the UMass Carbon Zero introduction, the state of Massachusetts has a legally binding reduction commitment for 2050 to “decarbonize statewide energy systems and reach 80% emission reductions … and net-zero emissions”.",
+  "description": "The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Qualitative Heat Map",
-    "permalink": "/iCons3/docs/category/qualitative-heat-map"
+    "title": "Project Proposal",
+    "permalink": "/iCons3/docs/category/project-proposal"
   }
 }

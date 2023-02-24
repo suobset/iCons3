@@ -1,0 +1,27 @@
+{
+  "unversionedId": "project-proposal/short-desc",
+  "id": "project-proposal/short-desc",
+  "title": "Introduction",
+  "description": "The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.",
+  "source": "@site/docs/project-proposal/short-desc.md",
+  "sourceDirName": "project-proposal",
+  "slug": "/project-proposal/short-desc",
+  "permalink": "/iCons3/docs/project-proposal/short-desc",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/short-desc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Proposal",
+    "permalink": "/iCons3/docs/category/project-proposal"
+  },
+  "next": {
+    "title": "Literature Review",
+    "permalink": "/iCons3/docs/project-proposal/literature-review"
+  }
+}

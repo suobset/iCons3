@@ -1,0 +1,27 @@
+{
+  "unversionedId": "project-proposal/literature-review",
+  "id": "project-proposal/literature-review",
+  "title": "Literature Review",
+  "description": "* Carbon Zero Report",
+  "source": "@site/docs/project-proposal/literature-review.md",
+  "sourceDirName": "project-proposal",
+  "slug": "/project-proposal/literature-review",
+  "permalink": "/iCons3/docs/project-proposal/literature-review",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/literature-review.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/iCons3/docs/project-proposal/short-desc"
+  },
+  "next": {
+    "title": "Back of the Envelope Calculations",
+    "permalink": "/iCons3/docs/project-proposal/back-env-calc"
+  }
+}

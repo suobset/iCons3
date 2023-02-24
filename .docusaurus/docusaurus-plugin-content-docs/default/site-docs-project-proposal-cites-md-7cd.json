@@ -1,0 +1,27 @@
+{
+  "unversionedId": "project-proposal/cites",
+  "id": "project-proposal/cites",
+  "title": "Sources",
+  "description": "* Introduction of UMass Carbon Zero https://www.umass.edu/carbon-neutrality/report/introduction",
+  "source": "@site/docs/project-proposal/cites.md",
+  "sourceDirName": "project-proposal",
+  "slug": "/project-proposal/cites",
+  "permalink": "/iCons3/docs/project-proposal/cites",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/cites.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testable Hypothesis",
+    "permalink": "/iCons3/docs/project-proposal/hypo-plan"
+  },
+  "next": {
+    "title": "Qualitative Heat Map",
+    "permalink": "/iCons3/docs/category/qualitative-heat-map"
+  }
+}

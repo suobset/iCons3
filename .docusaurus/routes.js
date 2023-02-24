@@ -69,8 +69,14 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '3d7'),
+    component: ComponentCreator('/iCons3/docs', '98e'),
     routes: [
+      {
+        path: '/iCons3/docs/category/project-proposal',
+        component: ComponentCreator('/iCons3/docs/category/project-proposal', 'a1f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/iCons3/docs/category/qualitative-heat-map',
         component: ComponentCreator('/iCons3/docs/category/qualitative-heat-map', '294'),
@@ -80,6 +86,42 @@ export default [
       {
         path: '/iCons3/docs/intro',
         component: ComponentCreator('/iCons3/docs/intro', 'f06'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/project-proposal/back-env-calc',
+        component: ComponentCreator('/iCons3/docs/project-proposal/back-env-calc', '381'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/project-proposal/cites',
+        component: ComponentCreator('/iCons3/docs/project-proposal/cites', '7b7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/project-proposal/hypo-plan',
+        component: ComponentCreator('/iCons3/docs/project-proposal/hypo-plan', 'f67'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/project-proposal/literature-review',
+        component: ComponentCreator('/iCons3/docs/project-proposal/literature-review', 'e44'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/project-proposal/pitfalls',
+        component: ComponentCreator('/iCons3/docs/project-proposal/pitfalls', '171'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/project-proposal/short-desc',
+        component: ComponentCreator('/iCons3/docs/project-proposal/short-desc', 'b2b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

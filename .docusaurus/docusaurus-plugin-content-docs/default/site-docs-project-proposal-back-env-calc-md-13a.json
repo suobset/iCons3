@@ -1,0 +1,27 @@
+{
+  "unversionedId": "project-proposal/back-env-calc",
+  "id": "project-proposal/back-env-calc",
+  "title": "Back of the Envelope Calculations",
+  "description": "If the above does not load, Click Here",
+  "source": "@site/docs/project-proposal/back-env-calc.md",
+  "sourceDirName": "project-proposal",
+  "slug": "/project-proposal/back-env-calc",
+  "permalink": "/iCons3/docs/project-proposal/back-env-calc",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/back-env-calc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Literature Review",
+    "permalink": "/iCons3/docs/project-proposal/literature-review"
+  },
+  "next": {
+    "title": "Pitfalls, Challenges, Alternative Solutions",
+    "permalink": "/iCons3/docs/project-proposal/pitfalls"
+  }
+}
