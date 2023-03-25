@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'iConS 3: Team Library',
+  title: 'iConS 3: Team Bookworms',
   tagline: 'Anvitha, Frank, Kush, Emily',
   favicon: 'img/favicon.ico',
 

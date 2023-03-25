@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "iConS 3: Team Library",
+  "title": "iConS 3: Team Bookworms",
   "tagline": "Anvitha, Frank, Kush, Emily",
   "favicon": "img/favicon.ico",
   "url": "https://suobset.github.io",
@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/trinity/Documents/GitHub/iCons3/sidebars.js",
+          "sidebarPath": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/sidebars.js",
           "editUrl": "https://github.com/suobset/iCons3"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/suobset/iCons3"
         },
         "theme": {
-          "customCss": "/Users/trinity/Documents/GitHub/iCons3/src/css/custom.css"
+          "customCss": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/src/css/custom.css"
         }
       }
     ]
