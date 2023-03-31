@@ -1,0 +1,27 @@
+%% + Limit the author list to 5 
+%% + Print only single author followed by et al.
+%% + Disable dashed for repeated auhtors
+@IEEEtranBSTCTL{IEEEexample:BSTcontrol,
+CTLuse_forced_etal       = "yes",
+CTLmax_names_forced_etal = "3",
+CTLnames_show_etal       = "1", 
+CTLdash_repeated_names   = "no",
+}
+%%----------------------------------------------------------------------------------%%
+%% 								PAPER REFERENCES
+%%----------------------------------------------------------------------------------%%
+@INPROCEEDINGS{Hagan2019,
+    author={M. {Hagan} and F. {Siddiqui} and S. {Sezer}},
+    booktitle={{Proc. 17th International Conference on Privacy, Security and Trust (PST)}}, 
+    title={{Enhancing Security and Privacy of Next-Generation Edge Computing Technologies}}, 
+    year={2019},
+    pages={1-5},
+}
+
+@INPROCEEDINGS{Siddiqui2019,
+    author = {F. Siddiqui and M. Hagan and S. Sezer},  
+    booktitle = {{Proc. 32nd IEEE International Conference on System-on-Chip Conference (SOCC)}},   
+    title = {{Establishing Cyber Resilience in Embedded Systems for Securing Next-Generation Critical Infrastructure}}, 
+    year = {2019},  
+    pages = {218-223},
+}
