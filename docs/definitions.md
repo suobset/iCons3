@@ -14,4 +14,8 @@ HVAC Systems generally consist of a Heating Chamber, a cooling chamber, and mult
 
 ## Demand
 
-For the purposes of this study, 
+For the purposes of this study, Demand refers to the values that the building manager has set the HVAC units to, for certain times. For example, the building manager may set the HVAC unit to keep the room at a constant temperature of 70 Degrees Farenheit from 5PM-9AM. 
+
+Different setpoints can be set of different times of the day, and different seasons. In some cases, this aspect can also be given to the end-user (by having them set desired temperature on the thermostat), but we will not be considering the same for the sake of simplicity on our simulations.
+
+## 
