@@ -20,6 +20,29 @@
           "contentPathLocalized": "/workspaces/iCons3/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "definitions",
+              "id": "definitions",
+              "title": "Definitions",
+              "description": "Below are some of the definitions used throughout our research, for reference purposes. For further information on any of the same, any of the team members may be contacted.",
+              "source": "@site/docs/definitions.md",
+              "sourceDirName": ".",
+              "slug": "/definitions",
+              "permalink": "/iCons3/docs/definitions",
+              "draft": false,
+              "editUrl": "https://github.com/suobset/iCons3/docs/definitions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Project Statement",
+                "permalink": "/iCons3/docs/intro"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Project Statement",
@@ -39,165 +62,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Definitions",
-                "permalink": "/iCons3/docs/category/definitions"
-              }
-            },
-            {
-              "unversionedId": "project-proposal/back-env-calc",
-              "id": "project-proposal/back-env-calc",
-              "title": "Back of the Envelope Calculations",
-              "description": "If the above does not load, Click Here",
-              "source": "@site/docs/project-proposal/back-env-calc.md",
-              "sourceDirName": "project-proposal",
-              "slug": "/project-proposal/back-env-calc",
-              "permalink": "/iCons3/docs/project-proposal/back-env-calc",
-              "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/back-env-calc.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Literature Review",
-                "permalink": "/iCons3/docs/project-proposal/literature-review"
-              },
-              "next": {
-                "title": "Pitfalls, Challenges, Alternative Solutions",
-                "permalink": "/iCons3/docs/project-proposal/pitfalls"
-              }
-            },
-            {
-              "unversionedId": "project-proposal/cites",
-              "id": "project-proposal/cites",
-              "title": "Sources",
-              "description": "* Introduction of UMass Carbon Zero https://www.umass.edu/carbon-neutrality/report/introduction",
-              "source": "@site/docs/project-proposal/cites.md",
-              "sourceDirName": "project-proposal",
-              "slug": "/project-proposal/cites",
-              "permalink": "/iCons3/docs/project-proposal/cites",
-              "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/cites.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Testable Hypothesis",
-                "permalink": "/iCons3/docs/project-proposal/hypo-plan"
-              }
-            },
-            {
-              "unversionedId": "project-proposal/hypo-plan",
-              "id": "project-proposal/hypo-plan",
-              "title": "Testable Hypothesis",
-              "description": "* Define “wasteful consumption” to be tangible",
-              "source": "@site/docs/project-proposal/hypo-plan.md",
-              "sourceDirName": "project-proposal",
-              "slug": "/project-proposal/hypo-plan",
-              "permalink": "/iCons3/docs/project-proposal/hypo-plan",
-              "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/hypo-plan.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Pitfalls, Challenges, Alternative Solutions",
-                "permalink": "/iCons3/docs/project-proposal/pitfalls"
-              },
-              "next": {
-                "title": "Sources",
-                "permalink": "/iCons3/docs/project-proposal/cites"
-              }
-            },
-            {
-              "unversionedId": "project-proposal/literature-review",
-              "id": "project-proposal/literature-review",
-              "title": "Literature Review",
-              "description": "* Carbon Zero Report",
-              "source": "@site/docs/project-proposal/literature-review.md",
-              "sourceDirName": "project-proposal",
-              "slug": "/project-proposal/literature-review",
-              "permalink": "/iCons3/docs/project-proposal/literature-review",
-              "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/literature-review.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Introduction",
-                "permalink": "/iCons3/docs/project-proposal/short-desc"
-              },
-              "next": {
-                "title": "Back of the Envelope Calculations",
-                "permalink": "/iCons3/docs/project-proposal/back-env-calc"
-              }
-            },
-            {
-              "unversionedId": "project-proposal/pitfalls",
-              "id": "project-proposal/pitfalls",
-              "title": "Pitfalls, Challenges, Alternative Solutions",
-              "description": "In order to understand the level of fine-grained metering that W.E.B DuBois does, we reached out to Peter Volpe, the Metering and Controls Engineer of the Central Heating Plant. He stated that while the electrical metering process for individual buildings is “multiple submeters that we use to obtain LEED credits and that are used to monitor individual large loads including the HVAC system, lighting and other loads”, the amount of submeters in DuBois is data that we would have to fill out a form to request and he has to work on that form with his department so that we can formally request data from the CHP about metering in the library specifically. Regarding steam and electric controls, he stated “the steam which provides heat for this building is monitored using a Rosemount steam meter which is connected to our Johnson Controls Metasys Building Automation System. That system can also provide 15 minute usage data.” Before we can design our own fine-grained metering system, we will have to look at what the CHP provides with respect to metering for the library, but we recognize that in order to make a heatmap for all the student-visitable floors for the library, we will need at minimum five to eight meters per floor to distribute areas in which we collect heating data for well enough to make a meaningful heatmap. A hybrid of CHP and our data will minimize the number of meters that we would have to make, but we would have to wait until Peter Volpe’s coworkers come back early next week to get access to the form that he mentioned to request that data. Cost factors need to be analyzed in terms of power consumption and price of the metering devices we make, because fine grained metering would require a large number of the devices, each of which must have a negligible amount of electricity consumption and waste.",
-              "source": "@site/docs/project-proposal/pitfalls.md",
-              "sourceDirName": "project-proposal",
-              "slug": "/project-proposal/pitfalls",
-              "permalink": "/iCons3/docs/project-proposal/pitfalls",
-              "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/pitfalls.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Back of the Envelope Calculations",
-                "permalink": "/iCons3/docs/project-proposal/back-env-calc"
-              },
-              "next": {
-                "title": "Testable Hypothesis",
-                "permalink": "/iCons3/docs/project-proposal/hypo-plan"
-              }
-            },
-            {
-              "unversionedId": "project-proposal/short-desc",
-              "id": "project-proposal/short-desc",
-              "title": "Introduction",
-              "description": "The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.",
-              "source": "@site/docs/project-proposal/short-desc.md",
-              "sourceDirName": "project-proposal",
-              "slug": "/project-proposal/short-desc",
-              "permalink": "/iCons3/docs/project-proposal/short-desc",
-              "draft": false,
-              "editUrl": "https://github.com/suobset/iCons3/docs/project-proposal/short-desc.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Definitions",
-                "permalink": "/iCons3/docs/category/definitions"
-              },
-              "next": {
-                "title": "Literature Review",
-                "permalink": "/iCons3/docs/project-proposal/literature-review"
+                "permalink": "/iCons3/docs/definitions"
               }
             }
           ],
@@ -209,42 +74,8 @@
                 "id": "intro"
               },
               {
-                "type": "category",
-                "label": "Definitions",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "project-proposal/short-desc"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "project-proposal/literature-review"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "project-proposal/back-env-calc"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "project-proposal/pitfalls"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "project-proposal/hypo-plan"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "project-proposal/cites"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "The following is our Project Proposal. Feel free to click around and explore!! :)",
-                  "slug": "/category/definitions",
-                  "permalink": "/iCons3/docs/category/definitions"
-                }
+                "type": "doc",
+                "id": "definitions"
               }
             ]
           }

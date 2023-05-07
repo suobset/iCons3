@@ -1,0 +1,23 @@
+{
+  "unversionedId": "definitions",
+  "id": "definitions",
+  "title": "Definitions",
+  "description": "Below are some of the definitions used throughout our research, for reference purposes. For further information on any of the same, any of the team members may be contacted.",
+  "source": "@site/docs/definitions.md",
+  "sourceDirName": ".",
+  "slug": "/definitions",
+  "permalink": "/iCons3/docs/definitions",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/definitions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Project Statement",
+    "permalink": "/iCons3/docs/intro"
+  }
+}

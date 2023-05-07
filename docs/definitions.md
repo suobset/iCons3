@@ -18,4 +18,5 @@ For the purposes of this study, Demand refers to the values that the building ma
 
 Different setpoints can be set of different times of the day, and different seasons. In some cases, this aspect can also be given to the end-user (by having them set desired temperature on the thermostat), but we will not be considering the same for the sake of simplicity on our simulations.
 
-## 
+## Preprocessing Demand Handling
+

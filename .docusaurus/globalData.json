@@ -11,43 +11,13 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "definitions",
+              "path": "/iCons3/docs/definitions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/iCons3/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "project-proposal/back-env-calc",
-              "path": "/iCons3/docs/project-proposal/back-env-calc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "project-proposal/cites",
-              "path": "/iCons3/docs/project-proposal/cites",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "project-proposal/hypo-plan",
-              "path": "/iCons3/docs/project-proposal/hypo-plan",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "project-proposal/literature-review",
-              "path": "/iCons3/docs/project-proposal/literature-review",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "project-proposal/pitfalls",
-              "path": "/iCons3/docs/project-proposal/pitfalls",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "project-proposal/short-desc",
-              "path": "/iCons3/docs/project-proposal/short-desc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/definitions",
-              "path": "/iCons3/docs/category/definitions",
               "sidebar": "tutorialSidebar"
             }
           ],

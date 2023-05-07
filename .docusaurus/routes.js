@@ -74,53 +74,17 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '4dc'),
+    component: ComponentCreator('/iCons3/docs', 'c14'),
     routes: [
       {
-        path: '/iCons3/docs/category/definitions',
-        component: ComponentCreator('/iCons3/docs/category/definitions', '2a4'),
+        path: '/iCons3/docs/definitions',
+        component: ComponentCreator('/iCons3/docs/definitions', 'ea1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/iCons3/docs/intro',
         component: ComponentCreator('/iCons3/docs/intro', 'f06'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/project-proposal/back-env-calc',
-        component: ComponentCreator('/iCons3/docs/project-proposal/back-env-calc', '381'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/project-proposal/cites',
-        component: ComponentCreator('/iCons3/docs/project-proposal/cites', '7b7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/project-proposal/hypo-plan',
-        component: ComponentCreator('/iCons3/docs/project-proposal/hypo-plan', 'f67'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/project-proposal/literature-review',
-        component: ComponentCreator('/iCons3/docs/project-proposal/literature-review', 'e44'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/project-proposal/pitfalls',
-        component: ComponentCreator('/iCons3/docs/project-proposal/pitfalls', '171'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/project-proposal/short-desc',
-        component: ComponentCreator('/iCons3/docs/project-proposal/short-desc', 'b2b'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

@@ -113,44 +113,20 @@
     },
     "content": "content---i-cons-3-markdown-page-393-3c1"
   },
-  "/iCons3/docs-4dc": {
+  "/iCons3/docs-c14": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---i-cons-3-docsf-68-54f"
     },
     "versionMetadata": "versionMetadata---i-cons-3-docs-935-5e4"
   },
-  "/iCons3/docs/category/definitions-2a4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---i-cons-3-docs-category-definitionsff-5-1f5"
+  "/iCons3/docs/definitions-ea1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-definitions-14-c-e9c"
   },
   "/iCons3/docs/intro-f06": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---i-cons-3-docs-intro-0-e-3-047"
-  },
-  "/iCons3/docs/project-proposal/back-env-calc-381": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-project-proposal-back-env-calc-13-a-188"
-  },
-  "/iCons3/docs/project-proposal/cites-7b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-project-proposal-cites-7-cd-74b"
-  },
-  "/iCons3/docs/project-proposal/hypo-plan-f67": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-project-proposal-hypo-plandd-8-6c9"
-  },
-  "/iCons3/docs/project-proposal/literature-review-e44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-project-proposal-literature-review-000-5e3"
-  },
-  "/iCons3/docs/project-proposal/pitfalls-171": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-project-proposal-pitfalls-68-b-f63"
-  },
-  "/iCons3/docs/project-proposal/short-desc-b2b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-project-proposal-short-desca-76-6dc"
   },
   "/iCons3/-142": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
