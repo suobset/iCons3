@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>iConS 3: Team Bookworms Blog</title>
+        <link>https://suobset.github.io/iCons3/blog</link>
+        <description>iConS 3: Team Bookworms Blog</description>
+        <lastBuildDate>Fri, 03 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Week of 2/24]]></title>
+            <link>https://suobset.github.io/iCons3/blog/Week 1</link>
+            <guid>https://suobset.github.io/iCons3/blog/Week 1</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[* Progress Report]]></description>
+            <content:encoded><![CDATA[<ul><li>Progress Report</li><li>Rough draft design of the infrastructure for the metering devices:</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="progress-report">Progress Report<a href="#progress-report" class="hash-link" aria-label="Direct link to Progress Report" title="Direct link to Progress Report">​</a></h2><p>We have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure-design-rough-draft">Infrastructure Design Rough Draft<a href="#infrastructure-design-rough-draft" class="hash-link" aria-label="Direct link to Infrastructure Design Rough Draft" title="Direct link to Infrastructure Design Rough Draft">​</a></h3><img loading="lazy" src="IMG_2020.jpg" width="800" height="500" class="img_ev3q"><hr>]]></content:encoded>
+            <category>weekly reports</category>
+        </item>
+        <item>
+            <title><![CDATA[Week of 2/24]]></title>
+            <link>https://suobset.github.io/iCons3/blog/Week 1</link>
+            <guid>https://suobset.github.io/iCons3/blog/Week 1</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[* Project Proposal]]></description>
+            <content:encoded><![CDATA[<ul><li>Progress Report</li><li>Rough draft design of the infrastructure for the metering devices:</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="progress-report">Progress Report<a href="#progress-report" class="hash-link" aria-label="Direct link to Progress Report" title="Direct link to Progress Report">​</a></h2><p>We have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure-design-rough-draft">Infrastructure Design Rough Draft<a href="#infrastructure-design-rough-draft" class="hash-link" aria-label="Direct link to Infrastructure Design Rough Draft" title="Direct link to Infrastructure Design Rough Draft">​</a></h3><img loading="lazy" src="IMG_2020.jpg" width="800" height="500" class="img_ev3q"><hr>]]></content:encoded>
+            <category>weekly reports</category>
+        </item>
+    </channel>
+</rss>

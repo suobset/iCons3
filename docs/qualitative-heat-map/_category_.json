@@ -1,8 +1,0 @@
-{
-    "label": "Qualitative Heat Map",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": "The following Heat Maps were created using Qualitative Data from a personal survey by visiting each library floor. Data was taken on each floor's temperature, relative humidity, lighting/electricity usage, trends we noticed, as well as a qualitative comfort-score (ranging between 0-100, in blocks of 5). Please keep in mind that this map uses a Qualitative Metric, instead of a Quantitative one. The purpose of these maps were to better understand the initial trends throughout the library, aid in our prelimnary research, and create an interactive draft as shown."
-    }
-  }

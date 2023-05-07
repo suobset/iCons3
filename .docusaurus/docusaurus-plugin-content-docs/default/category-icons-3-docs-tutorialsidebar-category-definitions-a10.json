@@ -1,0 +1,16 @@
+{
+  "title": "Definitions",
+  "description": "The following is our Project Proposal. Feel free to click around and explore!! :)",
+  "slug": "/category/definitions",
+  "permalink": "/iCons3/docs/category/definitions",
+  "navigation": {
+    "previous": {
+      "title": "Project Statement",
+      "permalink": "/iCons3/docs/intro"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/iCons3/docs/project-proposal/short-desc"
+    }
+  }
+}

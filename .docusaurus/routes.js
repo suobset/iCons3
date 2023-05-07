@@ -4,87 +4,81 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/iCons3/__docusaurus/debug',
-    component: ComponentCreator('/iCons3/__docusaurus/debug', '36a'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug', '1ae'),
     exact: true
   },
   {
     path: '/iCons3/__docusaurus/debug/config',
-    component: ComponentCreator('/iCons3/__docusaurus/debug/config', '173'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug/config', '9ee'),
     exact: true
   },
   {
     path: '/iCons3/__docusaurus/debug/content',
-    component: ComponentCreator('/iCons3/__docusaurus/debug/content', '652'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug/content', '782'),
     exact: true
   },
   {
     path: '/iCons3/__docusaurus/debug/globalData',
-    component: ComponentCreator('/iCons3/__docusaurus/debug/globalData', 'a60'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug/globalData', '707'),
     exact: true
   },
   {
     path: '/iCons3/__docusaurus/debug/metadata',
-    component: ComponentCreator('/iCons3/__docusaurus/debug/metadata', '643'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug/metadata', 'b1d'),
     exact: true
   },
   {
     path: '/iCons3/__docusaurus/debug/registry',
-    component: ComponentCreator('/iCons3/__docusaurus/debug/registry', '721'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug/registry', '5bc'),
     exact: true
   },
   {
     path: '/iCons3/__docusaurus/debug/routes',
-    component: ComponentCreator('/iCons3/__docusaurus/debug/routes', '1b2'),
+    component: ComponentCreator('/iCons3/__docusaurus/debug/routes', 'd44'),
     exact: true
   },
   {
     path: '/iCons3/blog',
-    component: ComponentCreator('/iCons3/blog', '1a3'),
+    component: ComponentCreator('/iCons3/blog', '443'),
     exact: true
   },
   {
     path: '/iCons3/blog/archive',
-    component: ComponentCreator('/iCons3/blog/archive', 'c4f'),
+    component: ComponentCreator('/iCons3/blog/archive', '8ba'),
     exact: true
   },
   {
     path: '/iCons3/blog/tags',
-    component: ComponentCreator('/iCons3/blog/tags', 'e74'),
+    component: ComponentCreator('/iCons3/blog/tags', '706'),
     exact: true
   },
   {
     path: '/iCons3/blog/tags/weekly-reports',
-    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', 'd82'),
+    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', '102'),
     exact: true
   },
   {
     path: '/iCons3/blog/Week 1',
-    component: ComponentCreator('/iCons3/blog/Week 1', 'b0d'),
+    component: ComponentCreator('/iCons3/blog/Week 1', 'c65'),
     exact: true
   },
   {
     path: '/iCons3/blog/Week 1',
-    component: ComponentCreator('/iCons3/blog/Week 1', '414'),
+    component: ComponentCreator('/iCons3/blog/Week 1', '1cc'),
     exact: true
   },
   {
     path: '/iCons3/markdown-page',
-    component: ComponentCreator('/iCons3/markdown-page', 'adb'),
+    component: ComponentCreator('/iCons3/markdown-page', '6d2'),
     exact: true
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '245'),
+    component: ComponentCreator('/iCons3/docs', '4dc'),
     routes: [
       {
-        path: '/iCons3/docs/category/project-proposal',
-        component: ComponentCreator('/iCons3/docs/category/project-proposal', 'a1f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/category/qualitative-heat-map',
-        component: ComponentCreator('/iCons3/docs/category/qualitative-heat-map', '294'),
+        path: '/iCons3/docs/category/definitions',
+        component: ComponentCreator('/iCons3/docs/category/definitions', '2a4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -129,138 +123,12 @@ export default [
         component: ComponentCreator('/iCons3/docs/project-proposal/short-desc', 'b2b'),
         exact: true,
         sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor1',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor1', 'a4e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor10',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor10', '981'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor11',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor11', 'd5e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor12',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor12', '5d7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor13',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor13', '56f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor14',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor14', '8b5'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor15',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor15', 'ac8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor16',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor16', '4fe'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor17',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor17', 'fe2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor18',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor18', 'd1c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor19',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor19', 'da2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor2',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor2', '6f0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor20',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor20', '99f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor21',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor21', 'bca'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor3',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor3', '04b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor4',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor4', '1ee'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor5',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor5', 'd4d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor6',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor6', 'c5d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor7',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor7', '77d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor8',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor8', '464'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/qualitative-heat-map/floor9',
-        component: ComponentCreator('/iCons3/docs/qualitative-heat-map/floor9', '462'),
-        exact: true,
-        sidebar: "tutorialSidebar"
       }
     ]
   },
   {
     path: '/iCons3/',
-    component: ComponentCreator('/iCons3/', '051'),
+    component: ComponentCreator('/iCons3/', '142'),
     exact: true
   },
   {

@@ -54,7 +54,7 @@
           "permalink": "/iCons3/blog/Week 1"
         }
       },
-      "content": "* Progress Report\r\n* Rough draft design of the infrastructure for the metering devices:\r\n\r\n## Progress Report\r\nWe have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.\r\n\r\n### Infrastructure Design Rough Draft\r\n\r\n<img src=\"IMG_2020.jpg\" width=\"800\" height=\"500\"></img>\r\n\r\n\r\n<hr />"
+      "content": "* Progress Report\n* Rough draft design of the infrastructure for the metering devices:\n\n## Progress Report\nWe have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.\n\n### Infrastructure Design Rough Draft\n\n<img src=\"IMG_2020.jpg\" width=\"800\" height=\"500\"></img>\n\n\n<hr />"
     },
     {
       "id": "Week 1",
