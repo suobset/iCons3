@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/workspaces/iCons3/sidebars.js",
+          "sidebarPath": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/sidebars.js",
           "editUrl": "https://github.com/suobset/iCons3"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/suobset/iCons3"
         },
         "theme": {
-          "customCss": "/workspaces/iCons3/src/css/custom.css"
+          "customCss": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/src/css/custom.css"
         }
       }
     ]

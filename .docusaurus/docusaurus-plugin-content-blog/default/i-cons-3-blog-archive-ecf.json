@@ -54,7 +54,7 @@
           "permalink": "/iCons3/blog/Week 1"
         }
       },
-      "content": "* Progress Report\n* Rough draft design of the infrastructure for the metering devices:\n\n## Progress Report\nWe have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.\n\n### Infrastructure Design Rough Draft\n\n<img src=\"IMG_2020.jpg\" width=\"800\" height=\"500\"></img>\n\n\n<hr />"
+      "content": "* Progress Report\r\n* Rough draft design of the infrastructure for the metering devices:\r\n\r\n## Progress Report\r\nWe have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.\r\n\r\n### Infrastructure Design Rough Draft\r\n\r\n<img src=\"IMG_2020.jpg\" width=\"800\" height=\"500\"></img>\r\n\r\n\r\n<hr />"
     },
     {
       "id": "Week 1",
@@ -110,7 +110,7 @@
           "permalink": "/iCons3/blog/Week 1"
         }
       },
-      "content": "* Project Proposal\n* Rough Draft of Block Diagram\n* Thermodynamic Calculation of Library's Heating Potential \n  * (in an ideal circumstance)\n* Qualitative Heat Map of the Library\n\n## Progress Report\n\n### Block Diagram Rough Draft\n\n<img src=\"https://raw.githubusercontent.com/suobset/iCons/main/iCons3-CS1/assets/Preliminary_Block_Diagram.png\" width=\"800\" height=\"500\"></img>\n\n### Thermodynamic Calculations\n\nRefer to <a href=\"/docs/project-proposal/back-env-calc\">Project -> Project Proposal -> Back of the Envelope Calculations</a>\n\n### Qualitative Heat Map\n\nRefer to <a href=\"/docs/intro\">Project -> Qualitative Heat Map</a>\n\n<hr />"
+      "content": "* Project Proposal\r\n* Rough Draft of Block Diagram\r\n* Thermodynamic Calculation of Library's Heating Potential \r\n  * (in an ideal circumstance)\r\n* Qualitative Heat Map of the Library\r\n\r\n## Progress Report\r\n\r\n### Block Diagram Rough Draft\r\n\r\n<img src=\"https://raw.githubusercontent.com/suobset/iCons/main/iCons3-CS1/assets/Preliminary_Block_Diagram.png\" width=\"800\" height=\"500\"></img>\r\n\r\n### Thermodynamic Calculations\r\n\r\nRefer to <a href=\"/docs/project-proposal/back-env-calc\">Project -> Project Proposal -> Back of the Envelope Calculations</a>\r\n\r\n### Qualitative Heat Map\r\n\r\nRefer to <a href=\"/docs/intro\">Project -> Qualitative Heat Map</a>\r\n\r\n<hr />"
     }
   ]
 }
