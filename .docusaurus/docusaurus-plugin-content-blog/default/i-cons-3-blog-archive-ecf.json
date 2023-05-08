@@ -63,7 +63,7 @@
         "editUrl": "https://github.com/suobset/iCons3/blog/2023-02-23/index.md",
         "source": "@site/blog/2023-02-23/index.md",
         "title": "Week of 2/24",
-        "description": "* Project Proposal",
+        "description": "Under Construction",
         "date": "2023-02-23T00:00:00.000Z",
         "formattedDate": "February 23, 2023",
         "tags": [
@@ -72,7 +72,7 @@
             "permalink": "/iCons3/blog/tags/weekly-reports"
           }
         ],
-        "readingTime": 0.35,
+        "readingTime": 0.01,
         "hasTruncateMarker": false,
         "authors": [
           {
@@ -110,7 +110,7 @@
           "permalink": "/iCons3/blog/Week 1"
         }
       },
-      "content": "* Project Proposal\r\n* Rough Draft of Block Diagram\r\n* Thermodynamic Calculation of Library's Heating Potential \r\n  * (in an ideal circumstance)\r\n* Qualitative Heat Map of the Library\r\n\r\n## Progress Report\r\n\r\n### Block Diagram Rough Draft\r\n\r\n<img src=\"https://raw.githubusercontent.com/suobset/iCons/main/iCons3-CS1/assets/Preliminary_Block_Diagram.png\" width=\"800\" height=\"500\"></img>\r\n\r\n### Thermodynamic Calculations\r\n\r\nRefer to <a href=\"/docs/project-proposal/back-env-calc\">Project -> Project Proposal -> Back of the Envelope Calculations</a>\r\n\r\n### Qualitative Heat Map\r\n\r\nRefer to <a href=\"/docs/intro\">Project -> Qualitative Heat Map</a>\r\n\r\n<hr />"
+      "content": "Under Construction"
     }
   ]
 }

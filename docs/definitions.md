@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Definitions
 
-Below are some of the definitions used throughout our research, for reference purposes. For further information on any of the same, any of the team members may be contacted. 
+Below are some of the definitions used throughout our research, for reference purposes. This page is mainly intended for the <b>Poster Sessions</b>, and each term will be referenced in detail in the main research part of the website. For further information on any of the same, any of the team members may be contacted. 
 
 ## HVAC
 
@@ -20,3 +20,4 @@ Different setpoints can be set of different times of the day, and different seas
 
 ## Preprocessing Demand Handling
 
+Preprocessing Demand Handling refers to the specific type of filtering that occurs on the demand signal in order to minimize energy consumption for the controller to meet the setpoints. Essentially, 
