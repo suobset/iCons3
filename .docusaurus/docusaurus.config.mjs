@@ -26,8 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/sidebars.js",
-          "editUrl": "https://github.com/suobset/iCons3"
+          "sidebarPath": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
