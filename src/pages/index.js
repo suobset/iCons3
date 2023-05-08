@@ -17,16 +17,40 @@ function HomepageHeader() {
         <div className={clsx(styles.buttons, 'd-flex justify-content-center')}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/intro"
+            style={{ marginLeft: '10px', marginBottom: '10px' }}>
             Research Paper
           </Link>
           <Link
             className="button button--secondary button--lg"
             to="/docs/poster_session"
-            style={{ marginLeft: '10px' }}>
+            style={{ marginBottom: '10px', marginRight: '10px' }}>
             Poster Session
           </Link>
         </div>
+        <style jsx>{`
+          @media (max-width: 768px) {
+            .hero__title {
+              font-size: 3rem;
+            }
+            .hero__subtitle {
+              font-size: 1.5rem;
+            }
+            .hero .container {
+              padding-top: 3rem;
+              padding-bottom: 3rem;
+            }
+            .buttons {
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+            }
+            .button {
+              margin: 5px;
+              font-size: 1rem;
+            }
+          }
+        `}</style>
       </div>
     </header>
   );
