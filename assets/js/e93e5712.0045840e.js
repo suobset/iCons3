@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[35],{5984:e=>{e.exports=JSON.parse('[{"label":"weekly reports","permalink":"/iCons3/blog/tags/weekly-reports","count":2}]')}}]);

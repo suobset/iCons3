@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suobset.github.io/iCons3/blog</id>
-    <title>iConS 3: Team Bookworms Blog</title>
-    <updated>2023-03-03T00:00:00.000Z</updated>
+    <title>iCons 3: Team Thermo Titans Blog</title>
+    <updated>2023-02-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suobset.github.io/iCons3/blog"/>
-    <subtitle>iConS 3: Team Bookworms Blog</subtitle>
+    <subtitle>iCons 3: Team Thermo Titans Blog</subtitle>
     <icon>https://suobset.github.io/iCons3/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Week of 2/24]]></title>
         <id>https://suobset.github.io/iCons3/blog/Week 1</id>
         <link href="https://suobset.github.io/iCons3/blog/Week 1"/>
-        <updated>2023-03-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[* Progress Report]]></summary>
-        <content type="html"><![CDATA[<ul><li>Progress Report</li><li>Rough draft design of the infrastructure for the metering devices:</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="progress-report">Progress Report<a href="#progress-report" class="hash-link" aria-label="Direct link to Progress Report" title="Direct link to Progress Report">​</a></h2><p>We have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure-design-rough-draft">Infrastructure Design Rough Draft<a href="#infrastructure-design-rough-draft" class="hash-link" aria-label="Direct link to Infrastructure Design Rough Draft" title="Direct link to Infrastructure Design Rough Draft">​</a></h3><img loading="lazy" src="IMG_2020.jpg" width="800" height="500" class="img_ev3q"><hr>]]></content>
-        <author>
-            <name>Anvitha Ramachandran</name>
-        </author>
-        <author>
-            <name>Emily Laus</name>
-        </author>
-        <author>
-            <name>Frank Catalano</name>
-        </author>
-        <author>
-            <name>Kushagra Srivastava</name>
-        </author>
-        <category label="weekly reports" term="weekly reports"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week of 2/24]]></title>
-        <id>https://suobset.github.io/iCons3/blog/Week 1</id>
-        <link href="https://suobset.github.io/iCons3/blog/Week 1"/>
         <updated>2023-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[* Project Proposal]]></summary>
-        <content type="html"><![CDATA[<ul><li>Progress Report</li><li>Rough draft design of the infrastructure for the metering devices:</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="progress-report">Progress Report<a href="#progress-report" class="hash-link" aria-label="Direct link to Progress Report" title="Direct link to Progress Report">​</a></h2><p>We have created plans and started building a prototype for one of the metering devices. We reached out to Ted from Carbon Zero and Peter Volpe of Campus Metering and Controls at the Physical Plant and we are starting to make more specifications regarding the features and data flow of the meters.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure-design-rough-draft">Infrastructure Design Rough Draft<a href="#infrastructure-design-rough-draft" class="hash-link" aria-label="Direct link to Infrastructure Design Rough Draft" title="Direct link to Infrastructure Design Rough Draft">​</a></h3><img loading="lazy" src="IMG_2020.jpg" width="800" height="500" class="img_ev3q"><hr>]]></content>
+        <summary type="html"><![CDATA[Under Construction]]></summary>
+        <content type="html"><![CDATA[<p>Under Construction</p>]]></content>
         <author>
             <name>Anvitha Ramachandran</name>
         </author>
