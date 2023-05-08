@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "iConS 3: Team Bookworms",
+  "title": "iCons 3: Team Thermo Titans",
   "tagline": "Anvitha, Frank, Kush, Emily",
   "favicon": "img/favicon.ico",
   "url": "https://suobset.github.io",
