@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="This website contains the work done by Team Thermo Titans [Anvitha, Emily, Kush, Frank] during Spring 2023 for the Integrated Concentration in STEM Program at UMass Amherst. Specifically, this work was done for iCons 3, under Shira Epstein and Nick Tooker.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
