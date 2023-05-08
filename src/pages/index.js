@@ -14,11 +14,17 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <div className={clsx(styles.buttons, 'd-flex justify-content-center')}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Check out the Project
+            Research Paper
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/poster_session"
+            style={{ marginLeft: '10px' }}>
+            Poster Session
           </Link>
         </div>
       </div>
