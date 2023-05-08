@@ -1,0 +1,23 @@
+{
+  "unversionedId": "poster_session",
+  "id": "poster_session",
+  "title": "Poster Session",
+  "description": "The following are some extra materials and references to help better understand the poster. Feel free to ask us for more info as well :D",
+  "source": "@site/docs/poster_session.md",
+  "sourceDirName": ".",
+  "slug": "/poster_session",
+  "permalink": "/iCons3/docs/poster_session",
+  "draft": false,
+  "editUrl": "https://github.com/suobset/iCons3/docs/poster_session.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/iCons3/docs/intro"
+  }
+}

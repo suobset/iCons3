@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Project Statement",
-  "description": "The W.E.B. DuBois Library is one of the largest energy consumers on the UMass Amherst Campus, and there is clear evidence that a notable amount of the library’s energy is used unnecessarily and inefficiently.",
+  "title": "Introduction",
+  "description": "The following website contains a comprehensive set of all resources related to the iCons 3 Project done by Anvitha, Emily, Kush, and Frank during Spring 2023. You can access our Research Papers, Posters, References, Citations, and even the Simulations that we built and used for this project.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Definitions",
-    "permalink": "/iCons3/docs/definitions"
+    "title": "Poster Session",
+    "permalink": "/iCons3/docs/poster_session"
   }
 }

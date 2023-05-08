@@ -42,16 +42,13 @@
       "plugin": "plugin---i-cons-3-docusaurus-debug-62-d-105"
     }
   },
-  "/iCons3/blog-6ed": {
+  "/iCons3/blog-f47": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---i-cons-3-blogdef-68c"
     },
     "sidebar": "sidebar---i-cons-3-blog-814-85b",
     "items": [
-      {
-        "content": "content---i-cons-3-blog-4-dc-3c5"
-      },
       {
         "content": "content---i-cons-3-blog-4-dc-3c5"
       }
@@ -73,7 +70,7 @@
     "sidebar": "sidebar---i-cons-3-blog-814-85b",
     "tags": "tags---i-cons-3-blog-tagse-93-967"
   },
-  "/iCons3/blog/tags/weekly-reports-04a": {
+  "/iCons3/blog/tags/weekly-reports-b3b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---i-cons-3-blogdef-68c"
@@ -82,21 +79,10 @@
     "items": [
       {
         "content": "content---i-cons-3-blog-4-dc-3c5"
-      },
-      {
-        "content": "content---i-cons-3-blog-4-dc-3c5"
       }
     ],
     "tag": "tag---i-cons-3-blog-tags-weekly-reportscc-9-d96",
     "listMetadata": "listMetadata---i-cons-3-blog-tags-weekly-reportsa-4-f-047"
-  },
-  "/iCons3/blog/Week 1-414": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---i-cons-3-blogdef-68c"
-    },
-    "sidebar": "sidebar---i-cons-3-blog-814-85b",
-    "content": "content---i-cons-3-blog-week-1-f-38-b4a"
   },
   "/iCons3/blog/Week 1-b0d": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -113,20 +99,20 @@
     },
     "content": "content---i-cons-3-markdown-page-393-3c1"
   },
-  "/iCons3/docs-119": {
+  "/iCons3/docs-7a7": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---i-cons-3-docs-944-990"
     },
     "versionMetadata": "versionMetadata---i-cons-3-docs-935-5e4"
   },
-  "/iCons3/docs/definitions-ea1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-definitions-14-c-e9c"
-  },
   "/iCons3/docs/intro-f06": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---i-cons-3-docs-intro-0-e-3-047"
+  },
+  "/iCons3/docs/poster_session-d1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-poster-sessiondc-6-240"
   },
   "/iCons3/-051": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

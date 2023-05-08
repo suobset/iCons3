@@ -11,13 +11,13 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "definitions",
-              "path": "/iCons3/docs/definitions",
+              "id": "intro",
+              "path": "/iCons3/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/iCons3/docs/intro",
+              "id": "poster_session",
+              "path": "/iCons3/docs/poster_session",
               "sidebar": "tutorialSidebar"
             }
           ],

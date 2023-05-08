@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/iCons3/blog',
-    component: ComponentCreator('/iCons3/blog', '6ed'),
+    component: ComponentCreator('/iCons3/blog', 'f47'),
     exact: true
   },
   {
@@ -54,12 +54,7 @@ export default [
   },
   {
     path: '/iCons3/blog/tags/weekly-reports',
-    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', '04a'),
-    exact: true
-  },
-  {
-    path: '/iCons3/blog/Week 1',
-    component: ComponentCreator('/iCons3/blog/Week 1', '414'),
+    component: ComponentCreator('/iCons3/blog/tags/weekly-reports', 'b3b'),
     exact: true
   },
   {
@@ -74,17 +69,17 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '119'),
+    component: ComponentCreator('/iCons3/docs', '7a7'),
     routes: [
       {
-        path: '/iCons3/docs/definitions',
-        component: ComponentCreator('/iCons3/docs/definitions', 'ea1'),
+        path: '/iCons3/docs/intro',
+        component: ComponentCreator('/iCons3/docs/intro', 'f06'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/iCons3/docs/intro',
-        component: ComponentCreator('/iCons3/docs/intro', 'f06'),
+        path: '/iCons3/docs/poster_session',
+        component: ComponentCreator('/iCons3/docs/poster_session', 'd1a'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

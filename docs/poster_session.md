@@ -6,8 +6,6 @@ sidebar_position: 2
 
 The following are some extra materials and references to help better understand the poster. Feel free to ask us for more info as well :D
 
-<hr>
-
 ## Definitions
 
 Below are some of the definitions used throughout our research, for reference purposes. This page is mainly intended for the <b>Poster Sessions</b>, and each term will be referenced in detail in the main research part of the website. For further information on any of the same, any of the team members may be contacted. 
@@ -32,13 +30,9 @@ Preprocessing Demand Handling refers to the specific type of filtering that occu
 
 PRAC+ stands for Pattern Recognition Adaptive Control. 
 
-<hr>
-
 ## Other thing
 
 blah blah
-
-<hr>
 
 ## Simulations
 

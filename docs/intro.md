@@ -12,8 +12,6 @@ Insert table of contents here soon.
 
 ## For Poster Session
 
-The definitions to each of the terms, along with further resources to enhance on the Poster can be found under the <a href="./poster_session.md">Poster Session Page</a> linked on the left. 
+The definitions to each of the terms, along with further resources to enhance on the Poster can be found under the Poster Session Page linked on the left. 
 
 If you want to access the simulations, that can be linked at the Simulations page on the top bar. The research paper, presentations, references, and everythig else are linked in their respective pages on the left. 
-
-<hr>
