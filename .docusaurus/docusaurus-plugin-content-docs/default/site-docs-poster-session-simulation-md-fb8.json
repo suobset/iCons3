@@ -1,0 +1,26 @@
+{
+  "unversionedId": "poster_session/simulation",
+  "id": "poster_session/simulation",
+  "title": "Simulation + Block Diagrams",
+  "description": "Add info here",
+  "source": "@site/docs/poster_session/simulation.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/simulation",
+  "permalink": "/iCons3/docs/poster_session/simulation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tables and Figures",
+    "permalink": "/iCons3/docs/poster_session/tables_and_figures"
+  },
+  "next": {
+    "title": "Discussion",
+    "permalink": "/iCons3/docs/poster_session/discussion"
+  }
+}

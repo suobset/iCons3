@@ -1,0 +1,26 @@
+{
+  "unversionedId": "poster_session/tables_and_figures",
+  "id": "poster_session/tables_and_figures",
+  "title": "Tables and Figures",
+  "description": "Add info here",
+  "source": "@site/docs/poster_session/tables_and_figures.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/tables_and_figures",
+  "permalink": "/iCons3/docs/poster_session/tables_and_figures",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Methods",
+    "permalink": "/iCons3/docs/poster_session/methods"
+  },
+  "next": {
+    "title": "Simulation + Block Diagrams",
+    "permalink": "/iCons3/docs/poster_session/simulation"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "poster_session/discussion",
+  "id": "poster_session/discussion",
+  "title": "Discussion",
+  "description": "Add info here",
+  "source": "@site/docs/poster_session/discussion.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/discussion",
+  "permalink": "/iCons3/docs/poster_session/discussion",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulation + Block Diagrams",
+    "permalink": "/iCons3/docs/poster_session/simulation"
+  },
+  "next": {
+    "title": "Future Works",
+    "permalink": "/iCons3/docs/poster_session/future_works"
+  }
+}

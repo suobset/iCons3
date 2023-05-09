@@ -1,0 +1,22 @@
+{
+  "unversionedId": "poster_session/acknowledgements_references",
+  "id": "poster_session/acknowledgements_references",
+  "title": "Acknowledgements and References",
+  "description": "Add info here",
+  "source": "@site/docs/poster_session/acknowledgements_references.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/acknowledgements_references",
+  "permalink": "/iCons3/docs/poster_session/acknowledgements_references",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Future Works",
+    "permalink": "/iCons3/docs/poster_session/future_works"
+  }
+}

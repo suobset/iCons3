@@ -1,0 +1,26 @@
+{
+  "unversionedId": "poster_session/methods",
+  "id": "poster_session/methods",
+  "title": "Methods",
+  "description": "Add info here",
+  "source": "@site/docs/poster_session/methods.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/methods",
+  "permalink": "/iCons3/docs/poster_session/methods",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key and Definitions",
+    "permalink": "/iCons3/docs/poster_session/key"
+  },
+  "next": {
+    "title": "Tables and Figures",
+    "permalink": "/iCons3/docs/poster_session/tables_and_figures"
+  }
+}

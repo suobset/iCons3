@@ -1,0 +1,26 @@
+{
+  "unversionedId": "poster_session/future_works",
+  "id": "poster_session/future_works",
+  "title": "Future Works",
+  "description": "Add info here",
+  "source": "@site/docs/poster_session/future_works.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/future_works",
+  "permalink": "/iCons3/docs/poster_session/future_works",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discussion",
+    "permalink": "/iCons3/docs/poster_session/discussion"
+  },
+  "next": {
+    "title": "Acknowledgements and References",
+    "permalink": "/iCons3/docs/poster_session/acknowledgements_references"
+  }
+}

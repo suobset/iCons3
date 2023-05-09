@@ -26,14 +26,14 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/sidebars.js"
+          "sidebarPath": "C:\\Users\\kushd\\Documents\\GitHub\\iCons3\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
           "editUrl": "https://github.com/suobset/iCons3"
         },
         "theme": {
-          "customCss": "/mnt/c/Users/Kushagra Srivastava/Documents/GitHub/iCons3/src/css/custom.css"
+          "customCss": "C:\\Users\\kushd\\Documents\\GitHub\\iCons3\\src\\css\\custom.css"
         }
       }
     ]

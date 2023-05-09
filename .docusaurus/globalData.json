@@ -16,8 +16,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "poster_session",
-              "path": "/iCons3/docs/poster_session",
+              "id": "poster_session/acknowledgements_references",
+              "path": "/iCons3/docs/poster_session/acknowledgements_references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/discussion",
+              "path": "/iCons3/docs/poster_session/discussion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/future_works",
+              "path": "/iCons3/docs/poster_session/future_works",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/key",
+              "path": "/iCons3/docs/poster_session/key",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/methods",
+              "path": "/iCons3/docs/poster_session/methods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/poster_session",
+              "path": "/iCons3/docs/poster_session/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/simulation",
+              "path": "/iCons3/docs/poster_session/simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "poster_session/tables_and_figures",
+              "path": "/iCons3/docs/poster_session/tables_and_figures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/poster-session-resources",
+              "path": "/iCons3/docs/category/poster-session-resources",
               "sidebar": "tutorialSidebar"
             }
           ],

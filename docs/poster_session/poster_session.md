@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Poster Session
+# Poster Session Introduction
 
 The following are some extra materials and references to help better understand the poster. Feel free to ask us for more info as well :D
 

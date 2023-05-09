@@ -1,0 +1,26 @@
+{
+  "unversionedId": "poster_session/poster_session",
+  "id": "poster_session/poster_session",
+  "title": "Poster Session Introduction",
+  "description": "The following are some extra materials and references to help better understand the poster. Feel free to ask us for more info as well :D",
+  "source": "@site/docs/poster_session/poster_session.md",
+  "sourceDirName": "poster_session",
+  "slug": "/poster_session/",
+  "permalink": "/iCons3/docs/poster_session/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Poster Session Resources",
+    "permalink": "/iCons3/docs/category/poster-session-resources"
+  },
+  "next": {
+    "title": "Key and Definitions",
+    "permalink": "/iCons3/docs/poster_session/key"
+  }
+}
