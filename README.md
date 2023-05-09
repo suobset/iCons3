@@ -1,16 +1,12 @@
-# iCons 3: Team Library
+# iCons 3: Team Thermo Titans
 
 ## Anvitha, Emily, Frank, Kushagra
 
-New iCons 3 Repo coz monorepo is falling apart
+Visit https://suobset.github.io/iCons3 for info on everything :)
 
-Will have ALL the official work for the iCons 3 work. Monorepo will just redirect to here. 
+![iCons 3 Research Poster (Thermo Titans, 2023) pptx](https://user-images.githubusercontent.com/73229775/236970844-d89254b4-1b94-422e-a2f4-952db4c4e4d8.png)
 
-To team members: Still don't mind giving access to monorepo if needed :)
-
-Cur draft website will be hosted at: https://suobset.github.io/iCons3
-
-Setup for the Heat Maps to work as of Feb 23 (TEMP):
+<!-- Setup for the Heat Maps to work as of Feb 23 (TEMP):
 
 1. This is the main repository for our primary website, as well as all source code files (including MATLAB)
 2. We use a supplementary repository: https://github.com/suobset/iCons
@@ -23,3 +19,4 @@ Setup for the Heat Maps to work as of Feb 23 (TEMP):
 
 Heatmap for the qualitative perceived temperature data for 21 of the floors of the W.E.B. DuBois Library.
 ![heatmap](https://user-images.githubusercontent.com/44482134/220529155-8457590a-5513-4262-8b7e-ab1863d5a1f4.gif)
+ -->
