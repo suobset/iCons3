@@ -109,7 +109,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Anvitha, Emily, Frank, Kush | iCons 3 Spring 2023 | GNU-GPL 2.0"
+      "copyright": "Anvitha, Emily, Frank, Kush | iCons 3 Spring 2023"
     },
     "prism": {
       "theme": {
