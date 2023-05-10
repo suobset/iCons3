@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', 'f10'),
+    component: ComponentCreator('/iCons3/docs', 'ddf'),
     routes: [
       {
         path: '/iCons3/docs/acknowledgements_references',
@@ -90,12 +90,6 @@ export default [
       {
         path: '/iCons3/docs/discussion',
         component: ComponentCreator('/iCons3/docs/discussion', 'bd0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/future_works',
-        component: ComponentCreator('/iCons3/docs/future_works', '8d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

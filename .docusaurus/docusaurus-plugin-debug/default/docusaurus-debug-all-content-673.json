@@ -29,21 +29,21 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Future Works",
-                "permalink": "/iCons3/docs/future_works"
+                "title": "Discussion",
+                "permalink": "/iCons3/docs/discussion"
               }
             },
             {
               "unversionedId": "discussion",
               "id": "discussion",
               "title": "Discussion",
-              "description": "Add info here",
+              "description": "* Change in EWMA -> potentially more energy reduction",
               "source": "@site/docs/discussion.md",
               "sourceDirName": ".",
               "slug": "/discussion",
@@ -59,32 +59,6 @@
               "previous": {
                 "title": "Tables and Figures",
                 "permalink": "/iCons3/docs/tables_and_figures"
-              },
-              "next": {
-                "title": "Future Works",
-                "permalink": "/iCons3/docs/future_works"
-              }
-            },
-            {
-              "unversionedId": "future_works",
-              "id": "future_works",
-              "title": "Future Works",
-              "description": "Add info here",
-              "source": "@site/docs/future_works.md",
-              "sourceDirName": ".",
-              "slug": "/future_works",
-              "permalink": "/iCons3/docs/future_works",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Discussion",
-                "permalink": "/iCons3/docs/discussion"
               },
               "next": {
                 "title": "Acknowledgements",
@@ -147,7 +121,7 @@
               "unversionedId": "tables_and_figures",
               "id": "tables_and_figures",
               "title": "Tables and Figures",
-              "description": "",
+              "description": "Below are outputs obtained from running the Simulation on different inputs.",
               "source": "@site/docs/tables_and_figures.md",
               "sourceDirName": ".",
               "slug": "/tables_and_figures",
@@ -214,10 +188,6 @@
               {
                 "type": "doc",
                 "id": "discussion"
-              },
-              {
-                "type": "doc",
-                "id": "future_works"
               },
               {
                 "type": "doc",

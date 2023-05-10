@@ -6,5 +6,26 @@ sidebar_position: 4
 
 Below are outputs obtained from running the Simulation on different inputs.
 
-## Simulation Output - Control
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/slide1.png" />
 
+<hr />
+
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/slide2.png" />
+
+<hr />
+
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/slide3.png" />
+
+<hr /> 
+
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/slide6.png" />
+
+<hr />
+
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/slide4.png" />
+
+<hr />
+
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/slide5.png" />
+
+<hr />

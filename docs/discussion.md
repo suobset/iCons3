@@ -4,12 +4,19 @@ sidebar_position: 5
 
 # Discussion
 
-Add info here
+* Change in EWMA -> potentially more energy reduction
+* Change in frequency -> potentially less energy reduction
+* Higher frequency -> more importance in EWMA
+* Lower EWMA -> more importance in frequency 
 
-PS: For pictures, here are 2 quick options to not break npm (since image linking relatively is not supported out of the box; docusaurus has its own way):
+## Conclusions
 
-1. add to shared drive (create a new folder), make image visibility public, and link image that way
-2. add to a dir on this repo, push that, get the rawgithubusercontent URL (by opening the image in the repo online), link that
-3. ask me to do it
+1. By manipulating EWMA and frequency, we can achieve significant energy savings while maintaining the setpoint temperatures for occupancy comfort.
+2. Average temperature remains roughly constant
+3. Less power consumption -> slightly greater reaction time
 
-Whichever option you choose, I'll get it in the Docusaurus way later so no worries :)
+## Future Work
+
+1. Account for temperature setpoints being manipulated by occupants
+2. Consider psychological aspects of occupancy comfort
+3. Expand simulation to be able to account for more controller specifications

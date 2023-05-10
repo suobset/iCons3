@@ -10,13 +10,13 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Future Works",
-    "permalink": "/iCons3/docs/future_works"
+    "title": "Discussion",
+    "permalink": "/iCons3/docs/discussion"
   }
 }

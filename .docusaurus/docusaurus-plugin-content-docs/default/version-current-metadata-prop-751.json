@@ -41,12 +41,6 @@
       },
       {
         "type": "link",
-        "label": "Future Works",
-        "href": "/iCons3/docs/future_works",
-        "docId": "future_works"
-      },
-      {
-        "type": "link",
         "label": "Acknowledgements",
         "href": "/iCons3/docs/acknowledgements_references",
         "docId": "acknowledgements_references"
@@ -63,13 +57,7 @@
     "discussion": {
       "id": "discussion",
       "title": "Discussion",
-      "description": "Add info here",
-      "sidebar": "tutorialSidebar"
-    },
-    "future_works": {
-      "id": "future_works",
-      "title": "Future Works",
-      "description": "Add info here",
+      "description": "* Change in EWMA -> potentially more energy reduction",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
@@ -87,7 +75,7 @@
     "tables_and_figures": {
       "id": "tables_and_figures",
       "title": "Tables and Figures",
-      "description": "",
+      "description": "Below are outputs obtained from running the Simulation on different inputs.",
       "sidebar": "tutorialSidebar"
     },
     "welcome": {
