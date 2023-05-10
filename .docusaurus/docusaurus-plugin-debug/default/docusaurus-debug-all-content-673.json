@@ -29,9 +29,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -51,9 +51,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -63,32 +63,6 @@
               "next": {
                 "title": "Future Works",
                 "permalink": "/iCons3/docs/future_works"
-              }
-            },
-            {
-              "unversionedId": "equations",
-              "id": "equations",
-              "title": "Equations",
-              "description": "",
-              "source": "@site/docs/equations.md",
-              "sourceDirName": ".",
-              "slug": "/equations",
-              "permalink": "/iCons3/docs/equations",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Methods",
-                "permalink": "/iCons3/docs/methods"
-              },
-              "next": {
-                "title": "Tables and Figures",
-                "permalink": "/iCons3/docs/tables_and_figures"
               }
             },
             {
@@ -103,9 +77,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -165,15 +139,15 @@
                 "permalink": "/iCons3/docs/intro"
               },
               "next": {
-                "title": "Equations",
-                "permalink": "/iCons3/docs/equations"
+                "title": "Tables and Figures",
+                "permalink": "/iCons3/docs/tables_and_figures"
               }
             },
             {
               "unversionedId": "tables_and_figures",
               "id": "tables_and_figures",
               "title": "Tables and Figures",
-              "description": "Add info here",
+              "description": "",
               "source": "@site/docs/tables_and_figures.md",
               "sourceDirName": ".",
               "slug": "/tables_and_figures",
@@ -181,14 +155,14 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Equations",
-                "permalink": "/iCons3/docs/equations"
+                "title": "Methods",
+                "permalink": "/iCons3/docs/methods"
               },
               "next": {
                 "title": "Discussion",
@@ -232,10 +206,6 @@
               {
                 "type": "doc",
                 "id": "methods"
-              },
-              {
-                "type": "doc",
-                "id": "equations"
               },
               {
                 "type": "doc",

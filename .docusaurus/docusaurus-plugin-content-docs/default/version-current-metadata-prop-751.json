@@ -29,12 +29,6 @@
       },
       {
         "type": "link",
-        "label": "Equations",
-        "href": "/iCons3/docs/equations",
-        "docId": "equations"
-      },
-      {
-        "type": "link",
         "label": "Tables and Figures",
         "href": "/iCons3/docs/tables_and_figures",
         "docId": "tables_and_figures"
@@ -72,12 +66,6 @@
       "description": "Add info here",
       "sidebar": "tutorialSidebar"
     },
-    "equations": {
-      "id": "equations",
-      "title": "Equations",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "future_works": {
       "id": "future_works",
       "title": "Future Works",
@@ -99,7 +87,7 @@
     "tables_and_figures": {
       "id": "tables_and_figures",
       "title": "Tables and Figures",
-      "description": "Add info here",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "welcome": {

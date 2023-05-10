@@ -32,6 +32,8 @@ Our goal is to create a comparative tool to analyze the costs associated with de
 
 We hypothesize that using a lower frequency of demand curve signal {i.e. one with a dead time<sup>5</sup> of 2*typical} and a midway value for EWMA filtration (0.9 weighting of the previous value) will lead to the scenario that optimizes for occupancy comfort while also consuming less energy than the standard values {EWMA=1, demand curve has been filtered to have the period be equivalent to that of our dead time}.
 
+<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/diag4.png" />
+
 ### Footnotes
 
 1. Demand: The values that the building manager sets the setpoints at for certain times
