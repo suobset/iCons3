@@ -60,7 +60,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`The Cost of Control`}
       description="This website contains the work done by Team Thermo Titans [Anvitha, Emily, Kush, Frank] during Spring 2023 for the Integrated Concentration in STEM Program at UMass Amherst. Specifically, this work was done for iCons 3, under Shira Epstein and Nick Tooker.">
       <HomepageHeader />
       <main>
