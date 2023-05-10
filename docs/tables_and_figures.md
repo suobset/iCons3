@@ -36,10 +36,6 @@ Below are outputs obtained from running the Simulation on different inputs.
 
 <hr />
 
-<img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/freq9.gif" />
-
-<hr />
-
 <img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/freq45.gif" />
 
 <hr />
