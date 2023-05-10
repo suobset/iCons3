@@ -108,16 +108,16 @@ const config = {
             title: 'Technologies',
             items: [
               {
+                label: 'Simulink',
+                href: 'https://www.mathworks.com/products/simulink.html',
+              },
+              {
                 label: 'MATLAB',
                 href: 'https://www.mathworks.com/products/matlab.html',
               },
               {
                 label: 'React',
-                href: 'https://reactjs.org/',
-              },
-              {
-                label: 'LaTeX',
-                href: 'https://www.latex-project.org/',
+                href: 'https://react.dev/',
               }
             ],
           },
