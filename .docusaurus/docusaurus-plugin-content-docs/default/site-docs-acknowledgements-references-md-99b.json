@@ -1,8 +1,8 @@
 {
   "unversionedId": "acknowledgements_references",
   "id": "acknowledgements_references",
-  "title": "Acknowledgements and References",
-  "description": "Add info here",
+  "title": "Acknowledgements",
+  "description": "We would like to thank the following people, who have aided us greatly in our research.",
   "source": "@site/docs/acknowledgements_references.md",
   "sourceDirName": ".",
   "slug": "/acknowledgements_references",

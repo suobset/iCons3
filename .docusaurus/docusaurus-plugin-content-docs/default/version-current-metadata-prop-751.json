@@ -23,15 +23,15 @@
       },
       {
         "type": "link",
-        "label": "Key and Definitions",
-        "href": "/iCons3/docs/key",
-        "docId": "key"
-      },
-      {
-        "type": "link",
         "label": "Methods",
         "href": "/iCons3/docs/methods",
         "docId": "methods"
+      },
+      {
+        "type": "link",
+        "label": "Equations",
+        "href": "/iCons3/docs/equations",
+        "docId": "equations"
       },
       {
         "type": "link",
@@ -53,7 +53,7 @@
       },
       {
         "type": "link",
-        "label": "Acknowledgements and References",
+        "label": "Acknowledgements",
         "href": "/iCons3/docs/acknowledgements_references",
         "docId": "acknowledgements_references"
       }
@@ -62,14 +62,20 @@
   "docs": {
     "acknowledgements_references": {
       "id": "acknowledgements_references",
-      "title": "Acknowledgements and References",
-      "description": "Add info here",
+      "title": "Acknowledgements",
+      "description": "We would like to thank the following people, who have aided us greatly in our research.",
       "sidebar": "tutorialSidebar"
     },
     "discussion": {
       "id": "discussion",
       "title": "Discussion",
       "description": "Add info here",
+      "sidebar": "tutorialSidebar"
+    },
+    "equations": {
+      "id": "equations",
+      "title": "Equations",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "future_works": {
@@ -84,16 +90,10 @@
       "description": "* In total, 3.9% of global greenhouse gas emissions and 10%",
       "sidebar": "tutorialSidebar"
     },
-    "key": {
-      "id": "key",
-      "title": "Key and Definitions",
-      "description": "1. HVAC: Heating, Ventilation, and Air Conditioning Systems",
-      "sidebar": "tutorialSidebar"
-    },
     "methods": {
       "id": "methods",
       "title": "Methods",
-      "description": "Add info here",
+      "description": "Data Collection and Simulation Construction",
       "sidebar": "tutorialSidebar"
     },
     "tables_and_figures": {

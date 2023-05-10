@@ -21,6 +21,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "equations",
+              "path": "/iCons3/docs/equations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "future_works",
               "path": "/iCons3/docs/future_works",
               "sidebar": "tutorialSidebar"
@@ -28,11 +33,6 @@
             {
               "id": "intro",
               "path": "/iCons3/docs/intro",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "key",
-              "path": "/iCons3/docs/key",
               "sidebar": "tutorialSidebar"
             },
             {

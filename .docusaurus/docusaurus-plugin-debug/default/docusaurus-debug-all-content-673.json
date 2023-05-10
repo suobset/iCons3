@@ -20,8 +20,8 @@
             {
               "unversionedId": "acknowledgements_references",
               "id": "acknowledgements_references",
-              "title": "Acknowledgements and References",
-              "description": "Add info here",
+              "title": "Acknowledgements",
+              "description": "We would like to thank the following people, who have aided us greatly in our research.",
               "source": "@site/docs/acknowledgements_references.md",
               "sourceDirName": ".",
               "slug": "/acknowledgements_references",
@@ -66,6 +66,32 @@
               }
             },
             {
+              "unversionedId": "equations",
+              "id": "equations",
+              "title": "Equations",
+              "description": "",
+              "source": "@site/docs/equations.md",
+              "sourceDirName": ".",
+              "slug": "/equations",
+              "permalink": "/iCons3/docs/equations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Methods",
+                "permalink": "/iCons3/docs/methods"
+              },
+              "next": {
+                "title": "Tables and Figures",
+                "permalink": "/iCons3/docs/tables_and_figures"
+              }
+            },
+            {
               "unversionedId": "future_works",
               "id": "future_works",
               "title": "Future Works",
@@ -87,7 +113,7 @@
                 "permalink": "/iCons3/docs/discussion"
               },
               "next": {
-                "title": "Acknowledgements and References",
+                "title": "Acknowledgements",
                 "permalink": "/iCons3/docs/acknowledgements_references"
               }
             },
@@ -113,19 +139,19 @@
                 "permalink": "/iCons3/docs/welcome"
               },
               "next": {
-                "title": "Key and Definitions",
-                "permalink": "/iCons3/docs/key"
+                "title": "Methods",
+                "permalink": "/iCons3/docs/methods"
               }
             },
             {
-              "unversionedId": "key",
-              "id": "key",
-              "title": "Key and Definitions",
-              "description": "1. HVAC: Heating, Ventilation, and Air Conditioning Systems",
-              "source": "@site/docs/key.md",
+              "unversionedId": "methods",
+              "id": "methods",
+              "title": "Methods",
+              "description": "Data Collection and Simulation Construction",
+              "source": "@site/docs/methods.md",
               "sourceDirName": ".",
-              "slug": "/key",
-              "permalink": "/iCons3/docs/key",
+              "slug": "/methods",
+              "permalink": "/iCons3/docs/methods",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -139,34 +165,8 @@
                 "permalink": "/iCons3/docs/intro"
               },
               "next": {
-                "title": "Methods",
-                "permalink": "/iCons3/docs/methods"
-              }
-            },
-            {
-              "unversionedId": "methods",
-              "id": "methods",
-              "title": "Methods",
-              "description": "Add info here",
-              "source": "@site/docs/methods.md",
-              "sourceDirName": ".",
-              "slug": "/methods",
-              "permalink": "/iCons3/docs/methods",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Key and Definitions",
-                "permalink": "/iCons3/docs/key"
-              },
-              "next": {
-                "title": "Tables and Figures",
-                "permalink": "/iCons3/docs/tables_and_figures"
+                "title": "Equations",
+                "permalink": "/iCons3/docs/equations"
               }
             },
             {
@@ -187,8 +187,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Methods",
-                "permalink": "/iCons3/docs/methods"
+                "title": "Equations",
+                "permalink": "/iCons3/docs/equations"
               },
               "next": {
                 "title": "Discussion",
@@ -231,11 +231,11 @@
               },
               {
                 "type": "doc",
-                "id": "key"
+                "id": "methods"
               },
               {
                 "type": "doc",
-                "id": "methods"
+                "id": "equations"
               },
               {
                 "type": "doc",

@@ -1,8 +1,8 @@
 {
   "unversionedId": "key",
   "id": "key",
-  "title": "Key and Definitions",
-  "description": "1. HVAC: Heating, Ventilation, and Air Conditioning Systems",
+  "title": "Methods",
+  "description": "Data Collection and Simulation Construction",
   "source": "@site/docs/key.md",
   "sourceDirName": ".",
   "slug": "/key",
@@ -20,7 +20,7 @@
     "permalink": "/iCons3/docs/intro"
   },
   "next": {
-    "title": "Methods",
+    "title": "Equations",
     "permalink": "/iCons3/docs/methods"
   }
 }

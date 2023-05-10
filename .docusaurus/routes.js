@@ -79,7 +79,7 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '13f'),
+    component: ComponentCreator('/iCons3/docs', 'd16'),
     routes: [
       {
         path: '/iCons3/docs/acknowledgements_references',
@@ -94,6 +94,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/iCons3/docs/equations',
+        component: ComponentCreator('/iCons3/docs/equations', 'b7c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/iCons3/docs/future_works',
         component: ComponentCreator('/iCons3/docs/future_works', '8d3'),
         exact: true,
@@ -102,12 +108,6 @@ export default [
       {
         path: '/iCons3/docs/intro',
         component: ComponentCreator('/iCons3/docs/intro', 'f06'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/key',
-        component: ComponentCreator('/iCons3/docs/key', '24e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

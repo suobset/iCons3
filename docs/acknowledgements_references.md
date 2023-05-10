@@ -2,14 +2,12 @@
 sidebar_position: 8
 ---
 
-# Acknowledgements and References
+# Acknowledgements
 
-Add info here
-
-PS: For pictures, here are 2 quick options to not break npm (since image linking relatively is not supported out of the box; docusaurus has its own way):
-
-1. add to shared drive (create a new folder), make image visibility public, and link image that way
-2. add to a dir on this repo, push that, get the rawgithubusercontent URL (by opening the image in the repo online), link that
-3. ask me to do it
-
-Whichever option you choose, I'll get it in the Docusaurus way later so no worries :)
+We would like to thank the following people, who have aided us greatly in our research.
+1. Peter Volpe: Electrical Engineer, UMass CHP
+2. Fidele Mazimpaka: UMass Campus Energy Engineer
+3. Ted Mendoza: Capital Projects Manager, UMass Sustainability, and Carbon Zero
+4. UMass Central Heating Plant, and UMass Carbon Zero
+5. Dr. Shira Epstein and Dr. Nick Tooker: iCons 3 Spring 2023 Instructors
+6. The iCons Program at University of Massachusetts Amherst.

@@ -2,7 +2,7 @@
   "unversionedId": "methods",
   "id": "methods",
   "title": "Methods",
-  "description": "Add info here",
+  "description": "Data Collection and Simulation Construction",
   "source": "@site/docs/methods.md",
   "sourceDirName": ".",
   "slug": "/methods",
@@ -10,17 +10,17 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Key and Definitions",
-    "permalink": "/iCons3/docs/key"
+    "title": "Introduction",
+    "permalink": "/iCons3/docs/intro"
   },
   "next": {
-    "title": "Tables and Figures",
-    "permalink": "/iCons3/docs/tables_and_figures"
+    "title": "Equations",
+    "permalink": "/iCons3/docs/equations"
   }
 }
