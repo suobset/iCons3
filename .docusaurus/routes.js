@@ -69,11 +69,23 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '6f0'),
+    component: ComponentCreator('/iCons3/docs', 'f01'),
     routes: [
       {
-        path: '/iCons3/docs/category/poster-session-resources',
-        component: ComponentCreator('/iCons3/docs/category/poster-session-resources', '634'),
+        path: '/iCons3/docs/acknowledgements_references',
+        component: ComponentCreator('/iCons3/docs/acknowledgements_references', '82d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/discussion',
+        component: ComponentCreator('/iCons3/docs/discussion', 'bd0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/future_works',
+        component: ComponentCreator('/iCons3/docs/future_works', '8d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -84,56 +96,32 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/iCons3/docs/poster_session/',
-        component: ComponentCreator('/iCons3/docs/poster_session/', 'd02'),
+        path: '/iCons3/docs/key',
+        component: ComponentCreator('/iCons3/docs/key', '24e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/iCons3/docs/poster_session/acknowledgements_references',
-        component: ComponentCreator('/iCons3/docs/poster_session/acknowledgements_references', '7d2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/poster_session/discussion',
-        component: ComponentCreator('/iCons3/docs/poster_session/discussion', 'c58'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/poster_session/future_works',
-        component: ComponentCreator('/iCons3/docs/poster_session/future_works', 'a70'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/poster_session/key',
-        component: ComponentCreator('/iCons3/docs/poster_session/key', '950'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/poster_session/methods',
-        component: ComponentCreator('/iCons3/docs/poster_session/methods', '7c6'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/poster_session/simulation',
-        component: ComponentCreator('/iCons3/docs/poster_session/simulation', 'ba0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/poster_session/tables_and_figures',
-        component: ComponentCreator('/iCons3/docs/poster_session/tables_and_figures', 'a8f'),
+        path: '/iCons3/docs/methods',
+        component: ComponentCreator('/iCons3/docs/methods', 'bb3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/iCons3/docs/simulation',
         component: ComponentCreator('/iCons3/docs/simulation', '8e7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/tables_and_figures',
+        component: ComponentCreator('/iCons3/docs/tables_and_figures', 'bb0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/welcome',
+        component: ComponentCreator('/iCons3/docs/welcome', '2c6'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

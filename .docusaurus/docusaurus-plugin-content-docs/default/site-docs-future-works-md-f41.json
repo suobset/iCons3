@@ -1,0 +1,26 @@
+{
+  "unversionedId": "future_works",
+  "id": "future_works",
+  "title": "Future Works",
+  "description": "Add info here",
+  "source": "@site/docs/future_works.md",
+  "sourceDirName": ".",
+  "slug": "/future_works",
+  "permalink": "/iCons3/docs/future_works",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discussion",
+    "permalink": "/iCons3/docs/discussion"
+  },
+  "next": {
+    "title": "Acknowledgements and References",
+    "permalink": "/iCons3/docs/acknowledgements_references"
+  }
+}

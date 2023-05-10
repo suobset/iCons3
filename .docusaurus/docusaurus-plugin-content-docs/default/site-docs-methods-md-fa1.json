@@ -1,0 +1,26 @@
+{
+  "unversionedId": "methods",
+  "id": "methods",
+  "title": "Methods",
+  "description": "Add info here",
+  "source": "@site/docs/methods.md",
+  "sourceDirName": ".",
+  "slug": "/methods",
+  "permalink": "/iCons3/docs/methods",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Key and Definitions",
+    "permalink": "/iCons3/docs/key"
+  },
+  "next": {
+    "title": "Tables and Figures",
+    "permalink": "/iCons3/docs/tables_and_figures"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "key",
+  "id": "key",
+  "title": "Key and Definitions",
+  "description": "Add info here",
+  "source": "@site/docs/key.md",
+  "sourceDirName": ".",
+  "slug": "/key",
+  "permalink": "/iCons3/docs/key",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/iCons3/docs/intro"
+  },
+  "next": {
+    "title": "Methods",
+    "permalink": "/iCons3/docs/methods"
+  }
+}

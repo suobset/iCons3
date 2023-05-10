@@ -8,51 +8,36 @@
           "label": "Next",
           "isLast": true,
           "path": "/iCons3/docs",
-          "mainDocId": "intro",
+          "mainDocId": "welcome",
           "docs": [
+            {
+              "id": "acknowledgements_references",
+              "path": "/iCons3/docs/acknowledgements_references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "discussion",
+              "path": "/iCons3/docs/discussion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "future_works",
+              "path": "/iCons3/docs/future_works",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "intro",
               "path": "/iCons3/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "poster_session/acknowledgements_references",
-              "path": "/iCons3/docs/poster_session/acknowledgements_references",
+              "id": "key",
+              "path": "/iCons3/docs/key",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "poster_session/discussion",
-              "path": "/iCons3/docs/poster_session/discussion",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "poster_session/future_works",
-              "path": "/iCons3/docs/poster_session/future_works",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "poster_session/key",
-              "path": "/iCons3/docs/poster_session/key",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "poster_session/methods",
-              "path": "/iCons3/docs/poster_session/methods",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "poster_session/poster_session",
-              "path": "/iCons3/docs/poster_session/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "poster_session/simulation",
-              "path": "/iCons3/docs/poster_session/simulation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "poster_session/tables_and_figures",
-              "path": "/iCons3/docs/poster_session/tables_and_figures",
+              "id": "methods",
+              "path": "/iCons3/docs/methods",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,8 +46,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/poster-session-resources",
-              "path": "/iCons3/docs/category/poster-session-resources",
+              "id": "tables_and_figures",
+              "path": "/iCons3/docs/tables_and_figures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "welcome",
+              "path": "/iCons3/docs/welcome",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +60,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/iCons3/docs/intro",
-                "label": "intro"
+                "path": "/iCons3/docs/welcome",
+                "label": "welcome"
               }
             }
           }

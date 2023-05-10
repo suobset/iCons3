@@ -1,0 +1,26 @@
+{
+  "unversionedId": "acknowledgements_references",
+  "id": "acknowledgements_references",
+  "title": "Acknowledgements and References",
+  "description": "Add info here",
+  "source": "@site/docs/acknowledgements_references.md",
+  "sourceDirName": ".",
+  "slug": "/acknowledgements_references",
+  "permalink": "/iCons3/docs/acknowledgements_references",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Future Works",
+    "permalink": "/iCons3/docs/future_works"
+  },
+  "next": {
+    "title": "Simulation",
+    "permalink": "/iCons3/docs/simulation"
+  }
+}

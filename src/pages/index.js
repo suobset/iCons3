@@ -17,15 +17,9 @@ function HomepageHeader() {
         <div className={clsx(styles.buttons, 'd-flex justify-content-center')}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="/docs/welcome"
             style={{ marginLeft: '10px', marginBottom: '10px', marginRight: '10px' }}>
-            Research Paper
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/poster_session"
-            style={{ marginBottom: '10px', marginRight: '10px' }}>
-            Poster Session
+            View Research
           </Link>
         </div>
         <style jsx>{`

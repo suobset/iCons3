@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "The following website contains a comprehensive set of all resources related to the iCons 3 Project done by Anvitha, Emily, Kush, and Frank during Spring 2023. You can access our Research Papers, Posters, References, Citations, and even the Simulations that we built and used for this project.",
+  "description": "",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -10,13 +10,17 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/iCons3/docs/welcome"
+  },
   "next": {
-    "title": "Poster Session Resources",
-    "permalink": "/iCons3/docs/category/poster-session-resources"
+    "title": "Key and Definitions",
+    "permalink": "/iCons3/docs/key"
   }
 }

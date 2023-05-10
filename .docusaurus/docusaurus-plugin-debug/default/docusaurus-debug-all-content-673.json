@@ -18,36 +18,14 @@
           "contentPathLocalized": "C:\\Users\\kushd\\Documents\\GitHub\\iCons3\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Introduction",
-              "description": "The following website contains a comprehensive set of all resources related to the iCons 3 Project done by Anvitha, Emily, Kush, and Frank during Spring 2023. You can access our Research Papers, Posters, References, Citations, and even the Simulations that we built and used for this project.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/iCons3/docs/intro",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Poster Session Resources",
-                "permalink": "/iCons3/docs/category/poster-session-resources"
-              }
-            },
-            {
-              "unversionedId": "poster_session/acknowledgements_references",
-              "id": "poster_session/acknowledgements_references",
+              "unversionedId": "acknowledgements_references",
+              "id": "acknowledgements_references",
               "title": "Acknowledgements and References",
               "description": "Add info here",
-              "source": "@site/docs/poster_session/acknowledgements_references.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/acknowledgements_references",
-              "permalink": "/iCons3/docs/poster_session/acknowledgements_references",
+              "source": "@site/docs/acknowledgements_references.md",
+              "sourceDirName": ".",
+              "slug": "/acknowledgements_references",
+              "permalink": "/iCons3/docs/acknowledgements_references",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -58,7 +36,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Future Works",
-                "permalink": "/iCons3/docs/poster_session/future_works"
+                "permalink": "/iCons3/docs/future_works"
               },
               "next": {
                 "title": "Simulation",
@@ -66,14 +44,14 @@
               }
             },
             {
-              "unversionedId": "poster_session/discussion",
-              "id": "poster_session/discussion",
+              "unversionedId": "discussion",
+              "id": "discussion",
               "title": "Discussion",
               "description": "Add info here",
-              "source": "@site/docs/poster_session/discussion.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/discussion",
-              "permalink": "/iCons3/docs/poster_session/discussion",
+              "source": "@site/docs/discussion.md",
+              "sourceDirName": ".",
+              "slug": "/discussion",
+              "permalink": "/iCons3/docs/discussion",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -83,23 +61,23 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Simulation + Block Diagrams",
-                "permalink": "/iCons3/docs/poster_session/simulation"
+                "title": "Tables and Figures",
+                "permalink": "/iCons3/docs/tables_and_figures"
               },
               "next": {
                 "title": "Future Works",
-                "permalink": "/iCons3/docs/poster_session/future_works"
+                "permalink": "/iCons3/docs/future_works"
               }
             },
             {
-              "unversionedId": "poster_session/future_works",
-              "id": "poster_session/future_works",
+              "unversionedId": "future_works",
+              "id": "future_works",
               "title": "Future Works",
               "description": "Add info here",
-              "source": "@site/docs/poster_session/future_works.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/future_works",
-              "permalink": "/iCons3/docs/poster_session/future_works",
+              "source": "@site/docs/future_works.md",
+              "sourceDirName": ".",
+              "slug": "/future_works",
+              "permalink": "/iCons3/docs/future_works",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -110,22 +88,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Discussion",
-                "permalink": "/iCons3/docs/poster_session/discussion"
+                "permalink": "/iCons3/docs/discussion"
               },
               "next": {
                 "title": "Acknowledgements and References",
-                "permalink": "/iCons3/docs/poster_session/acknowledgements_references"
+                "permalink": "/iCons3/docs/acknowledgements_references"
               }
             },
             {
-              "unversionedId": "poster_session/key",
-              "id": "poster_session/key",
-              "title": "Key and Definitions",
-              "description": "Add info here",
-              "source": "@site/docs/poster_session/key.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/key",
-              "permalink": "/iCons3/docs/poster_session/key",
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/iCons3/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -135,23 +113,23 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Poster Session Introduction",
-                "permalink": "/iCons3/docs/poster_session/"
+                "title": "Welcome",
+                "permalink": "/iCons3/docs/welcome"
               },
               "next": {
-                "title": "Methods",
-                "permalink": "/iCons3/docs/poster_session/methods"
+                "title": "Key and Definitions",
+                "permalink": "/iCons3/docs/key"
               }
             },
             {
-              "unversionedId": "poster_session/methods",
-              "id": "poster_session/methods",
-              "title": "Methods",
+              "unversionedId": "key",
+              "id": "key",
+              "title": "Key and Definitions",
               "description": "Add info here",
-              "source": "@site/docs/poster_session/methods.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/methods",
-              "permalink": "/iCons3/docs/poster_session/methods",
+              "source": "@site/docs/key.md",
+              "sourceDirName": ".",
+              "slug": "/key",
+              "permalink": "/iCons3/docs/key",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -161,75 +139,23 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Key and Definitions",
-                "permalink": "/iCons3/docs/poster_session/key"
+                "title": "Introduction",
+                "permalink": "/iCons3/docs/intro"
               },
               "next": {
-                "title": "Tables and Figures",
-                "permalink": "/iCons3/docs/poster_session/tables_and_figures"
+                "title": "Methods",
+                "permalink": "/iCons3/docs/methods"
               }
             },
             {
-              "unversionedId": "poster_session/poster_session",
-              "id": "poster_session/poster_session",
-              "title": "Poster Session Introduction",
-              "description": "The following are some extra materials and references to help better understand the poster. Feel free to ask us for more info as well :D",
-              "source": "@site/docs/poster_session/poster_session.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/",
-              "permalink": "/iCons3/docs/poster_session/",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Poster Session Resources",
-                "permalink": "/iCons3/docs/category/poster-session-resources"
-              },
-              "next": {
-                "title": "Key and Definitions",
-                "permalink": "/iCons3/docs/poster_session/key"
-              }
-            },
-            {
-              "unversionedId": "poster_session/simulation",
-              "id": "poster_session/simulation",
-              "title": "Simulation + Block Diagrams",
+              "unversionedId": "methods",
+              "id": "methods",
+              "title": "Methods",
               "description": "Add info here",
-              "source": "@site/docs/poster_session/simulation.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/simulation",
-              "permalink": "/iCons3/docs/poster_session/simulation",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tables and Figures",
-                "permalink": "/iCons3/docs/poster_session/tables_and_figures"
-              },
-              "next": {
-                "title": "Discussion",
-                "permalink": "/iCons3/docs/poster_session/discussion"
-              }
-            },
-            {
-              "unversionedId": "poster_session/tables_and_figures",
-              "id": "poster_session/tables_and_figures",
-              "title": "Tables and Figures",
-              "description": "Add info here",
-              "source": "@site/docs/poster_session/tables_and_figures.md",
-              "sourceDirName": "poster_session",
-              "slug": "/poster_session/tables_and_figures",
-              "permalink": "/iCons3/docs/poster_session/tables_and_figures",
+              "source": "@site/docs/methods.md",
+              "sourceDirName": ".",
+              "slug": "/methods",
+              "permalink": "/iCons3/docs/methods",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -239,19 +165,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Methods",
-                "permalink": "/iCons3/docs/poster_session/methods"
+                "title": "Key and Definitions",
+                "permalink": "/iCons3/docs/key"
               },
               "next": {
-                "title": "Simulation + Block Diagrams",
-                "permalink": "/iCons3/docs/poster_session/simulation"
+                "title": "Tables and Figures",
+                "permalink": "/iCons3/docs/tables_and_figures"
               }
             },
             {
               "unversionedId": "simulation",
               "id": "simulation",
               "title": "Simulation",
-              "description": "This is currently a placeholder page to hold the simulation. Actual simulation will be linked on the header :)",
+              "description": "This is currently a placeholder page to hold the Simulink version of the Simulator. A UI will be created for the Poster Session and pushed on to this page, for people to access without the need for installing MATLAB.",
               "source": "@site/docs/simulation.md",
               "sourceDirName": ".",
               "slug": "/simulation",
@@ -259,14 +185,62 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Acknowledgements and References",
-                "permalink": "/iCons3/docs/poster_session/acknowledgements_references"
+                "permalink": "/iCons3/docs/acknowledgements_references"
+              }
+            },
+            {
+              "unversionedId": "tables_and_figures",
+              "id": "tables_and_figures",
+              "title": "Tables and Figures",
+              "description": "Add info here",
+              "source": "@site/docs/tables_and_figures.md",
+              "sourceDirName": ".",
+              "slug": "/tables_and_figures",
+              "permalink": "/iCons3/docs/tables_and_figures",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Methods",
+                "permalink": "/iCons3/docs/methods"
+              },
+              "next": {
+                "title": "Discussion",
+                "permalink": "/iCons3/docs/discussion"
+              }
+            },
+            {
+              "unversionedId": "welcome",
+              "id": "welcome",
+              "title": "Welcome",
+              "description": "The following website contains a comprehensive set of all resources related to the iCons 3 Project done by Anvitha, Emily, Kush, and Frank during Spring 2023. You can access our Research Papers, Posters, References, Citations, and even the Simulations that we built and used for this project.",
+              "source": "@site/docs/welcome.md",
+              "sourceDirName": ".",
+              "slug": "/welcome",
+              "permalink": "/iCons3/docs/welcome",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Introduction",
+                "permalink": "/iCons3/docs/intro"
               }
             }
           ],
@@ -275,53 +249,35 @@
             "tutorialSidebar": [
               {
                 "type": "doc",
+                "id": "welcome"
+              },
+              {
+                "type": "doc",
                 "id": "intro"
               },
               {
-                "type": "category",
-                "label": "Poster Session Resources",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "poster_session/poster_session"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/key"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/methods"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/tables_and_figures"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/simulation"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/discussion"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/future_works"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "poster_session/acknowledgements_references"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "The following are some resources to aid the Poster. The Simulation is listed on the header of the website (top menu on phones); other resources are listed below, or on the left sidebar. Feel free to look around for more info!! :)",
-                  "slug": "/category/poster-session-resources",
-                  "permalink": "/iCons3/docs/category/poster-session-resources"
-                }
+                "type": "doc",
+                "id": "key"
+              },
+              {
+                "type": "doc",
+                "id": "methods"
+              },
+              {
+                "type": "doc",
+                "id": "tables_and_figures"
+              },
+              {
+                "type": "doc",
+                "id": "discussion"
+              },
+              {
+                "type": "doc",
+                "id": "future_works"
+              },
+              {
+                "type": "doc",
+                "id": "acknowledgements_references"
               },
               {
                 "type": "doc",

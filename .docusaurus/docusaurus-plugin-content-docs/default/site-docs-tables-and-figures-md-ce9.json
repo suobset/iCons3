@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tables_and_figures",
+  "id": "tables_and_figures",
+  "title": "Tables and Figures",
+  "description": "Add info here",
+  "source": "@site/docs/tables_and_figures.md",
+  "sourceDirName": ".",
+  "slug": "/tables_and_figures",
+  "permalink": "/iCons3/docs/tables_and_figures",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Methods",
+    "permalink": "/iCons3/docs/methods"
+  },
+  "next": {
+    "title": "Discussion",
+    "permalink": "/iCons3/docs/discussion"
+  }
+}

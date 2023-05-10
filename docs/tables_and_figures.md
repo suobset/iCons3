@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 
-# Methods
+# Tables and Figures
 
 Add info here
 

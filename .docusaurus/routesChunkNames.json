@@ -99,56 +99,48 @@
     },
     "content": "content---i-cons-3-markdown-page-393-3c1"
   },
-  "/iCons3/docs-6f0": {
+  "/iCons3/docs-f01": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---i-cons-3-docs-392-d44"
     },
     "versionMetadata": "versionMetadata---i-cons-3-docs-935-5e4"
   },
-  "/iCons3/docs/category/poster-session-resources-634": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---i-cons-3-docs-category-poster-session-resourcesfce-0e9"
+  "/iCons3/docs/acknowledgements_references-82d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-acknowledgements-references-99-b-350"
+  },
+  "/iCons3/docs/discussion-bd0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-discussion-181-388"
+  },
+  "/iCons3/docs/future_works-8d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-future-worksf-41-852"
   },
   "/iCons3/docs/intro-f06": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---i-cons-3-docs-intro-0-e-3-047"
   },
-  "/iCons3/docs/poster_session/-d02": {
+  "/iCons3/docs/key-24e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-969-3e1"
+    "content": "content---i-cons-3-docs-key-85-d-d8b"
   },
-  "/iCons3/docs/poster_session/acknowledgements_references-7d2": {
+  "/iCons3/docs/methods-bb3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-acknowledgements-referencesd-67-428"
-  },
-  "/iCons3/docs/poster_session/discussion-c58": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-discussion-77-f-a5f"
-  },
-  "/iCons3/docs/poster_session/future_works-a70": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-future-works-413-04e"
-  },
-  "/iCons3/docs/poster_session/key-950": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-key-683-6fd"
-  },
-  "/iCons3/docs/poster_session/methods-7c6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-methods-6-cc-d64"
-  },
-  "/iCons3/docs/poster_session/simulation-ba0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-simulationfb-8-c42"
-  },
-  "/iCons3/docs/poster_session/tables_and_figures-a8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---i-cons-3-docs-poster-session-tables-and-figures-094-867"
+    "content": "content---i-cons-3-docs-methodsfa-1-4e8"
   },
   "/iCons3/docs/simulation-8e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---i-cons-3-docs-simulation-2-fe-426"
+  },
+  "/iCons3/docs/tables_and_figures-bb0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-tables-and-figuresce-9-f11"
+  },
+  "/iCons3/docs/welcome-2c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---i-cons-3-docs-welcomeebf-cd6"
   },
   "/iCons3/-c38": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

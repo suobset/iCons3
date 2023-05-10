@@ -1,0 +1,22 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "title": "Welcome",
+  "description": "The following website contains a comprehensive set of all resources related to the iCons 3 Project done by Anvitha, Emily, Kush, and Frank during Spring 2023. You can access our Research Papers, Posters, References, Citations, and even the Simulations that we built and used for this project.",
+  "source": "@site/docs/welcome.md",
+  "sourceDirName": ".",
+  "slug": "/welcome",
+  "permalink": "/iCons3/docs/welcome",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/iCons3/docs/intro"
+  }
+}

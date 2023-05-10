@@ -2,7 +2,7 @@
   "unversionedId": "simulation",
   "id": "simulation",
   "title": "Simulation",
-  "description": "This is currently a placeholder page to hold the simulation. Actual simulation will be linked on the header :)",
+  "description": "This is currently a placeholder page to hold the Simulink version of the Simulator. A UI will be created for the Poster Session and pushed on to this page, for people to access without the need for installing MATLAB.",
   "source": "@site/docs/simulation.md",
   "sourceDirName": ".",
   "slug": "/simulation",
@@ -10,13 +10,13 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acknowledgements and References",
-    "permalink": "/iCons3/docs/poster_session/acknowledgements_references"
+    "permalink": "/iCons3/docs/acknowledgements_references"
   }
 }
