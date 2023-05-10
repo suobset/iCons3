@@ -1,0 +1,22 @@
+{
+  "unversionedId": "simulation",
+  "id": "simulation",
+  "title": "Simulation",
+  "description": "This is currently a placeholder page to hold the simulation. Actual simulation will be linked on the header :)",
+  "source": "@site/docs/simulation.md",
+  "sourceDirName": ".",
+  "slug": "/simulation",
+  "permalink": "/iCons3/docs/simulation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Acknowledgements and References",
+    "permalink": "/iCons3/docs/poster_session/acknowledgements_references"
+  }
+}

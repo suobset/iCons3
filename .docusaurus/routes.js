@@ -69,7 +69,7 @@ export default [
   },
   {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', '377'),
+    component: ComponentCreator('/iCons3/docs', '6f0'),
     routes: [
       {
         path: '/iCons3/docs/category/poster-session-resources',
@@ -128,6 +128,12 @@ export default [
       {
         path: '/iCons3/docs/poster_session/tables_and_figures',
         component: ComponentCreator('/iCons3/docs/poster_session/tables_and_figures', 'a8f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/iCons3/docs/simulation',
+        component: ComponentCreator('/iCons3/docs/simulation', '8e7'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

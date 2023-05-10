@@ -71,6 +71,12 @@
           }
         ],
         "href": "/iCons3/docs/category/poster-session-resources"
+      },
+      {
+        "type": "link",
+        "label": "Simulation",
+        "href": "/iCons3/docs/simulation",
+        "docId": "simulation"
       }
     ]
   },
@@ -127,6 +133,12 @@
       "id": "poster_session/tables_and_figures",
       "title": "Tables and Figures",
       "description": "Add info here",
+      "sidebar": "tutorialSidebar"
+    },
+    "simulation": {
+      "id": "simulation",
+      "title": "Simulation",
+      "description": "This is currently a placeholder page to hold the simulation. Actual simulation will be linked on the header :)",
       "sidebar": "tutorialSidebar"
     }
   }

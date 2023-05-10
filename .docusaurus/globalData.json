@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "simulation",
+              "path": "/iCons3/docs/simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/poster-session-resources",
               "path": "/iCons3/docs/category/poster-session-resources",
               "sidebar": "tutorialSidebar"
