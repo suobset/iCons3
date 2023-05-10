@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/apollo11big.jpg',
+      image: 'img/iCons-nogo.png',
       navbar: {
         title: 'Home',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/apollo11.png',
+          src: 'img/iCons-nogo.png',
         },
         items: [
           {
@@ -127,7 +127,8 @@ const config = {
             ],
           },
         ],
-        copyright: 'Anvitha, Emily, Frank, and Kush |  iCons 3: Spring 2023',
+        copyright: 'Anvitha, Emily, Frank, and Kush iCons 3: Spring 2023',
+
       },
       prism: {
         theme: lightCodeTheme,

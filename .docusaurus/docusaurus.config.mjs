@@ -39,12 +39,12 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/apollo11big.jpg",
+    "image": "img/iCons-nogo.png",
     "navbar": {
       "title": "Home",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/apollo11.png"
+        "src": "img/iCons-nogo.png"
       },
       "items": [
         {
@@ -109,7 +109,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Anvitha, Emily, Frank, and Kush |  iCons 3: Spring 2023"
+      "copyright": "Anvitha, Emily, Frank, and Kush iCons 3: Spring 2023"
     },
     "prism": {
       "theme": {
