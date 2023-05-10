@@ -81,13 +81,13 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "",
+      "description": "According to a paper by Woods et. al,",
       "sidebar": "tutorialSidebar"
     },
     "key": {
       "id": "key",
       "title": "Key and Definitions",
-      "description": "Add info here",
+      "description": "1. HVAC: Heating, Ventilation, and Air Conditioning Systems",
       "sidebar": "tutorialSidebar"
     },
     "methods": {

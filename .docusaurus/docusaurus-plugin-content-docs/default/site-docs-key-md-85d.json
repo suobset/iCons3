@@ -2,7 +2,7 @@
   "unversionedId": "key",
   "id": "key",
   "title": "Key and Definitions",
-  "description": "Add info here",
+  "description": "1. HVAC: Heating, Ventilation, and Air Conditioning Systems",
   "source": "@site/docs/key.md",
   "sourceDirName": ".",
   "slug": "/key",

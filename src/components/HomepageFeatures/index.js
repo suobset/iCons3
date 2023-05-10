@@ -66,7 +66,7 @@ export default function HomepageFeatures() {
           <li><b><i>Kushagra Srivastava</i></b>: CompSci major. Specializing in Artificial Intelligence/Machine Learning, and in System Design and Architecture. Can create software and web visualizations for the audience to better understand, grasp, and interact with data, conduct data analysis and predictions using my Statistical and ML skillset, and contribute towards a lot of Mathematical stuff. Can also contribute towards development in the hardware side of our project. I am also working with Prof Richards and Prof Chiu of UMass CICS to get a Systems Lab!</li>
         </ul>
         <hr />
-        <p>The <a href="/docs/intro">Project</a> Page Holds our interactive data and visualizations, along with our research methodology, findings, and the like that we created as a result of this analysis, and the <a href="/blog">Weekly Reports</a> page holds our progress through the Spring 2023 semester while working on this project.</p>
+        <p>The <a href="/docs/intro">Project</a> Page Holds our interactive data and visualizations, along with our research methodology, findings, and the like that we created as a result of this analysis, and the <a href="/simulation">Simulation</a> page holds our Simulink Simulation created for this project.</p>
       </div>
     </section>
   );

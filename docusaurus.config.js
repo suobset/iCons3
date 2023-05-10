@@ -66,13 +66,13 @@ const config = {
       navbar: {
         title: 'Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo',
           src: 'img/iCons-nogo.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'welcome',
             position: 'left',
             label: 'Project',
           },
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Project',
-                to: '/docs/intro',
+                to: '/docs/welcome',
               },
               {
                 label: 'Simulation',

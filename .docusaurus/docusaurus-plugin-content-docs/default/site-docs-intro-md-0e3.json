@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "",
+  "description": "According to a paper by Woods et. al,",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
