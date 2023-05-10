@@ -6,7 +6,7 @@
 export default {
   "title": "iCons 3: Team Thermo Titans",
   "tagline": "Anvitha, Frank, Kush, Emily",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favicon.png",
   "url": "https://suobset.github.io",
   "baseUrl": "/iCons3/",
   "organizationName": "suobset",
