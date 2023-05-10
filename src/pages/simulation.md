@@ -1,7 +1,6 @@
 ---
-sidebar_position: 9
+title: Simulink Simulation
 ---
-
 # Simulation
 
 This is currently a placeholder page to hold the Simulink version of the Simulator. A UI will be created for the Poster Session and pushed on to this page, for people to access without the need for installing MATLAB.

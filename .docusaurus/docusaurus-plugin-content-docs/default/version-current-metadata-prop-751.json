@@ -56,12 +56,6 @@
         "label": "Acknowledgements and References",
         "href": "/iCons3/docs/acknowledgements_references",
         "docId": "acknowledgements_references"
-      },
-      {
-        "type": "link",
-        "label": "Simulation",
-        "href": "/iCons3/docs/simulation",
-        "docId": "simulation"
       }
     ]
   },
@@ -100,12 +94,6 @@
       "id": "methods",
       "title": "Methods",
       "description": "Add info here",
-      "sidebar": "tutorialSidebar"
-    },
-    "simulation": {
-      "id": "simulation",
-      "title": "Simulation",
-      "description": "This is currently a placeholder page to hold the Simulink version of the Simulator. A UI will be created for the Poster Session and pushed on to this page, for people to access without the need for installing MATLAB.",
       "sidebar": "tutorialSidebar"
     },
     "tables_and_figures": {

@@ -54,8 +54,8 @@ export default {
           "label": "Project"
         },
         {
-          "to": "/blog",
-          "label": "Weekly Reports",
+          "to": "/simulation",
+          "label": "Simulation",
           "position": "left"
         },
         {
@@ -77,8 +77,12 @@ export default {
               "to": "/docs/intro"
             },
             {
-              "label": "Weekly Reports",
-              "to": "/blog"
+              "label": "Simulation",
+              "to": "/simulation"
+            },
+            {
+              "label": "Archive [soon]",
+              "to": "/archive"
             }
           ]
         },
@@ -92,6 +96,10 @@ export default {
             {
               "label": "React",
               "href": "https://reactjs.org/"
+            },
+            {
+              "label": "LaTeX",
+              "href": "https://www.latex-project.org/"
             }
           ]
         },
@@ -104,7 +112,11 @@ export default {
             },
             {
               "label": "iCons Innovation Portal [soon]",
-              "href": "https://icons.cns.umass.edu"
+              "href": "https://icons.cns.umass.edu/innovation-portal"
+            },
+            {
+              "label": "GNU GPL v2.0",
+              "href": "https://github.com/suobset/iCons3/blob/main/LICENSE"
             }
           ]
         }

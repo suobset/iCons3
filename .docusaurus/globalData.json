@@ -41,11 +41,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "simulation",
-              "path": "/iCons3/docs/simulation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tables_and_figures",
               "path": "/iCons3/docs/tables_and_figures",
               "sidebar": "tutorialSidebar"

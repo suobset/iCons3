@@ -37,10 +37,6 @@
               "previous": {
                 "title": "Future Works",
                 "permalink": "/iCons3/docs/future_works"
-              },
-              "next": {
-                "title": "Simulation",
-                "permalink": "/iCons3/docs/simulation"
               }
             },
             {
@@ -174,28 +170,6 @@
               }
             },
             {
-              "unversionedId": "simulation",
-              "id": "simulation",
-              "title": "Simulation",
-              "description": "This is currently a placeholder page to hold the Simulink version of the Simulator. A UI will be created for the Poster Session and pushed on to this page, for people to access without the need for installing MATLAB.",
-              "source": "@site/docs/simulation.md",
-              "sourceDirName": ".",
-              "slug": "/simulation",
-              "permalink": "/iCons3/docs/simulation",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {
-                "sidebar_position": 9
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Acknowledgements and References",
-                "permalink": "/iCons3/docs/acknowledgements_references"
-              }
-            },
-            {
               "unversionedId": "tables_and_figures",
               "id": "tables_and_figures",
               "title": "Tables and Figures",
@@ -278,10 +252,6 @@
               {
                 "type": "doc",
                 "id": "acknowledgements_references"
-              },
-              {
-                "type": "doc",
-                "id": "simulation"
               }
             ]
           }
@@ -393,6 +363,16 @@
   "docusaurus-plugin-content-pages": {
     "default": [
       {
+        "type": "mdx",
+        "permalink": "/iCons3/archive",
+        "source": "@site/src/pages/archive.md",
+        "title": "Archive",
+        "description": "This will be a space to hold all previous versions of our research, and corresponding documentation, for future reference. Currently under construction, and not counted towards final deliverable.",
+        "frontMatter": {
+          "title": "Archive"
+        }
+      },
+      {
         "type": "jsx",
         "permalink": "/iCons3/",
         "source": "@site/src/pages/index.js"
@@ -405,6 +385,16 @@
         "description": "You don't need React to write simple standalone pages.",
         "frontMatter": {
           "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/iCons3/simulation",
+        "source": "@site/src/pages/simulation.md",
+        "title": "Simulink Simulation",
+        "description": "This is currently a placeholder page to hold the Simulink version of the Simulator. A UI will be created for the Poster Session and pushed on to this page, for people to access without the need for installing MATLAB.",
+        "frontMatter": {
+          "title": "Simulink Simulation"
         }
       }
     ]

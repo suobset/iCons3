@@ -38,6 +38,11 @@ export default [
     exact: true
   },
   {
+    path: '/iCons3/archive',
+    component: ComponentCreator('/iCons3/archive', 'dec'),
+    exact: true
+  },
+  {
     path: '/iCons3/blog',
     component: ComponentCreator('/iCons3/blog', '45f'),
     exact: true
@@ -68,8 +73,13 @@ export default [
     exact: true
   },
   {
+    path: '/iCons3/simulation',
+    component: ComponentCreator('/iCons3/simulation', 'e5f'),
+    exact: true
+  },
+  {
     path: '/iCons3/docs',
-    component: ComponentCreator('/iCons3/docs', 'f01'),
+    component: ComponentCreator('/iCons3/docs', '13f'),
     routes: [
       {
         path: '/iCons3/docs/acknowledgements_references',
@@ -104,12 +114,6 @@ export default [
       {
         path: '/iCons3/docs/methods',
         component: ComponentCreator('/iCons3/docs/methods', 'bb3'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/iCons3/docs/simulation',
-        component: ComponentCreator('/iCons3/docs/simulation', '8e7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

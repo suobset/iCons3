@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: 'Project',
           },
-          {to: '/blog', label: 'Weekly Reports', position: 'left'},
+          {to: '/simulation', label: 'Simulation', position: 'left'},
           {
             href: 'https://github.com/suobset/iCons3',
             label: 'GitHub',
@@ -95,8 +95,12 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Weekly Reports',
-                to: '/blog',
+                label: 'Simulation',
+                to: '/simulation',
+              },
+              {
+                label: 'Archive [soon]',
+                to: '/archive',
               }
             ],
           },
@@ -111,6 +115,10 @@ const config = {
                 label: 'React',
                 href: 'https://reactjs.org/',
               },
+              {
+                label: 'LaTeX',
+                href: 'https://www.latex-project.org/',
+              }
             ],
           },
           {
@@ -122,7 +130,11 @@ const config = {
               },
               {
                 label: 'iCons Innovation Portal [soon]',
-                href: 'https://icons.cns.umass.edu',
+                href: 'https://icons.cns.umass.edu/innovation-portal',
+              },
+              {
+                label: 'GNU GPL v2.0',
+                href: 'https://github.com/suobset/iCons3/blob/main/LICENSE',
               }
             ],
           },
