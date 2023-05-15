@@ -122,6 +122,10 @@ const config = {
               {
                 label: 'React',
                 href: 'https://react.dev/',
+              },
+              {
+                label: 'LaTeX',
+                href: 'https://www.latex-project.org/',
               }
             ],
           },
