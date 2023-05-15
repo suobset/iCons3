@@ -99,6 +99,10 @@ const config = {
                 to: '/simulation',
               },
               {
+                label: 'Report',
+                to: '/docs/report',
+              },
+              {
                 label: 'Archive [soon]',
                 to: '/archive',
               }
