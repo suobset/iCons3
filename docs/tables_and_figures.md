@@ -43,3 +43,9 @@ Below are outputs obtained from running the Simulation on different inputs.
 <img src="https://raw.githubusercontent.com/suobset/iCons3/main/assets/freq225.gif" />
 
 <hr />
+
+## Energy and Cost Analysis
+
+Using the time and temperature trends displayed above, and the relationship between heat transfer and temperature change, we can conclude the approx energy consumed.
+
+<img width="403" alt="Screen Shot 2023-05-15 at 2 25 18 PM" src="https://github.com/suobset/iCons3/assets/73229775/fc3d6c85-f1a1-4bcb-a678-a1b93080c324" />
