@@ -100,10 +100,6 @@ const config = {
                 to: '/simulation',
               },
               {
-                label: 'Report',
-                to: '/docs/report',
-              },
-              {
                 label: 'Archive [soon]',
                 to: '/archive',
               }
@@ -115,10 +111,6 @@ const config = {
               {
                 label: 'Simulink',
                 href: 'https://www.mathworks.com/products/simulink.html',
-              },
-              {
-                label: 'MATLAB',
-                href: 'https://www.mathworks.com/products/matlab.html',
               },
               {
                 label: 'React',
