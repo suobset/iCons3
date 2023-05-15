@@ -77,6 +77,7 @@ const config = {
             label: 'Project',
           },
           {to: '/simulation', label: 'Simulation', position: 'left'},
+          {to: '/docs/report', label: 'Report', position: 'left'},
           {
             href: 'https://github.com/suobset/iCons3',
             label: 'GitHub',
